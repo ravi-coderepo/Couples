@@ -1,0 +1,1097 @@
+Person_Age,Sex,Person_Sexual_Orientation,Person_Ethinicity,Partners_Age_Difference,Partners_Distance,Partners_Hobby,Partners_Education,Partners_Tourist_Destination,Partners_Movie,Partners_Food,Partners_Drinks,Partners_Sexual_Orientation,Partners_Ethnicity,Compatibility
+18,Male,Heterosexual,Non-hispanic whites,5,5,Cycling,High School,Beaches,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+19,Male,Heterosexual,Non-hispanic whites,5,10,Gardening,High School,Beaches,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+20,Male,Heterosexual,Non-hispanic whites,10,15,fishing,Under Graduate,Mountains,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+18,Female,Heterosexual,Non-hispanic whites,5,5,Cycling,Post Graduate,Ranches,Romance,Vegan,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+18,Male,Heterosexual,Non-hispanic whites,5,15,Swimming,Graduate,Adventure,Horror,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+22,Female,Heterosexual,Non-hispanic whites,5,15,Swimming,Under Graduate,Beaches,Romance,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+24,Male,Heterosexual,Hispanic and Latino,5,15,Reading,Under Graduate,Heritage,Romance,Vegan,Alcholic,Partner_Heterosexual,Partner_Hispanic and Latino,1
+25,Male,Heterosexual,Hispanic and Latino,5,15,Cycling,Uneducated,Beaches,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Hispanic and Latino,1
+28,Female,Heterosexual,Non-hispanic whites,5,10,Reading,Uneducated,Beaches,Horror,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_Hispanic and Latino,0
+22,Male,Heterosexual,Hispanic and Latino,5,10,Reading,Uneducated,Heritage,Horror,Vegan,Alcholic,Partner_Heterosexual,Partner_Hispanic and Latino,0
+24,Female,Heterosexual,Hispanic and Latino,10,5,Cooking,High School,Beaches,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Hispanic and Latino,1
+21,Male,Heterosexual,Non-hispanic whites,5,5,Reading,High School,Ranches,Horror,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_Non-hispanic whites,0
+21,Female,Heterosexual,Hispanic and Latino,5,10,Reading,High School,Beaches,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Hispanic and Latino,1
+22,Male,Heterosexual,Hispanic and Latino,5,5,cooking,Graduate,Mountains,Science Fiction,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_Hispanic and Latino,1
+23,Male,Heterosexual,Non-hispanic whites,5,5,Cycling,Graduate,Mountains,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+24,Transgender,Heterosexual,Non-hispanic whites,5,5,Swimming,Graduate,Beaches,Crime,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,0
+21,Male,Heterosexual,African-Americans,5,5,Athletics,Graduate,Beaches,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_African-Americans,1
+22,Female,Heterosexual,African-Americans,5,5,Athletics,Graduate,Beaches,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_African-Americans,1
+18,Male,Heterosexual,African-Americans,5,15,Cycling,Post Graduate,Heritage,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_African-Americans,1
+22,Male,Heterosexual,Non-hispanic whites,5,10,Reading,Graduate,Heritage,Romance,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_African-Americans,1
+19,Transgender,Heterosexual,Hispanic and Latino,5,10,Swimming,High School,Adventure,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_African-Americans,1
+34,Male,Heterosexual,Hispanic and Latino,5,10,Athletics,High School,Adventure,Horror,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_Hispanic and Latino,0
+32,Male,Heterosexual,Asian,5,15,Swimming,High School,Beaches,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Asian,1
+28,Female,Heterosexual,Asian,5,15,Swimming,Graduate,Mountains,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Asian,1
+25,Male,Heterosexual,Asian,5,10,Reading,Under Graduate,Beaches,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Asian,1
+18,Male,Heterosexual,Asian,5,15,Cycling,Graduate,Beaches,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Asian,1
+19,Male,Heterosexual,Asian,5,100,Cycling,Under Graduate,Beaches,action,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Asian,0
+22,Male,Heterosexual,African-Americans,5,15,Swimming,High School,Beaches,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Asian,1
+18,Female,Heterosexual,Non-hispanic whites,10,10,Reading,Graduate,Mountains,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Asian,1
+22,Female,Heterosexual,Hispanic and Latino,5,25,Cycling,Under Graduate,Beaches,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Asian,1
+21,Female,Heterosexual,Asian,5,10,Swimming,Graduate,Mountains,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Asian,1
+22,Male,Heterosexual,Non-hispanic whites,5,10,Cycling,Graduate,Beaches,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+23,Male,Heterosexual,Hispanic and Latino,5,5,Swimming,Under Graduate,Ranches,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Hispanic and Latino,1
+24,Donot Disclose,Heterosexual,Asian,5,5,Cycling,High School,Mountains,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Asian,1
+25,Male,Heterosexual,Non-hispanic whites,5,10,Swimming,High School,Beaches,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+22,Male,Heterosexual,Non-hispanic whites,5,15,Swimming,Uneducated,Beaches,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,0
+23,Male,Heterosexual,Non-hispanic whites,5,15,Swimming,Uneducated,Mountains,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,0
+22,Female,Heterosexual,Asian,5,15,Cycling,Uneducated,Mountains,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Asian,0
+25,Male,Heterosexual,Non-hispanic whites,20,10,Cycling,Graduate,Mountains,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+19,Female,Heterosexual,Non-hispanic whites,5,15,Swimming,High School,Beaches,Science Fiction,Vegan,Alcholic,Partner_Heterosexual,Partner_African-Americans,1
+20,Female,Heterosexual,African-Americans,5,25,Reading,High School,Mountains,action,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Hispanic and Latino,1
+21,Male,Heterosexual,Hispanic and Latino,5,10,Cooking,High School,Beaches,Satire,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_Asian,0
+22,Donot Disclose,Heterosexual,Asian,20,15,Cooking,Uneducated,Heritage,Horror,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Asian,0
+21,Male,Heterosexual,Non-hispanic whites,5,25,Swimming,High School,Heritage,Romance,Vegan,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+22,Male,Heterosexual,Non-hispanic whites,10,20,Cooking,Graduate,Mountains,action,Vegan,Alcholic,Partner_Heterosexual,Partner_African-Americans,1
+23,Male,Heterosexual,African-Americans,5,10,Swimming,High School,Beaches,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Hispanic and Latino,1
+21,Female,Heterosexual,Hispanic and Latino,10,15,Cycling,High School,Beaches,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Asian,1
+24,Female,Heterosexual,Asian,20,15,Cooking,Uneducated,Mountains,Horror,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Asian,0
+27,Female,Heterosexual,Non-hispanic whites,5,25,Reading,Graduate,Mountains,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Asian,1
+28,Male,Heterosexual,African-Americans,5,10,Cycling,Under Graduate,Beaches,Satire,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_Hispanic and Latino,1
+24,Male,Heterosexual,Hispanic and Latino,10,15,Swimming,Graduate,Mountains,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_African-Americans,1
+25,Male,Heterosexual,Asian,5,10,Cycling,High School,Beaches,action,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+25,Female,Heterosexual,African-Americans,10,10,Swimming,Uneducated,Ranches,Horror,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,0
+18,Transgender,Heterosexual,Asian,10,15,Cycling,Uneducated,Heritage,Horror,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_African-Americans,0
+21,Male,Heterosexual,African-Americans,10,10,Swimming,Uneducated,Ranches,Horror,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_Asian,0
+24,Male,Heterosexual,African-Americans,5,150,Swimming,Graduate,Ranches,action,Vegan,Alcholic,Partner_Heterosexual,Partner_Asian,0
+25,Male,Heterosexual,Non-hispanic whites,5,15,Cycling,Graduate,Beaches,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+22,Male,Heterosexual,African-Americans,10,10,Swimming,Under Graduate,Beaches,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_African-Americans,1
+24,Female,Heterosexual,Hispanic and Latino,5,10,Cycling,Post Graduate,Beaches,Satire,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Hispanic and Latino,1
+25,Male,Heterosexual,Non-hispanic whites,10,10,Cooking,High School,Ranches,Science Fiction,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_Asian,1
+25,Female,Heterosexual,African-Americans,20,10,Swimming,Uneducated,Ranches,Romance,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_African-Americans,0
+24,Male,Heterosexual,African-Americans,5,20,Swimming,High School,Beaches,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_African-Americans,1
+24,Male,Heterosexual,African-Americans,5,200,Swimming,Graduate,Ranches,Romance,Vegan,Alcholic,Partner_Heterosexual,Partner_Asian,0
+25,Female,Heterosexual,Non-hispanic whites,5,5,Swimming,High School,Mountains,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+21,Male,Heterosexual,Non-hispanic whites,10,10,Cooking,High School,Beaches,Science Fiction,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_African-Americans,1
+19,Female,Heterosexual,Non-hispanic whites,5,15,Cycling,Graduate,Mountains,Satire,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Hispanic and Latino,1
+21,Male,Heterosexual,Non-hispanic whites,10,10,Swimming,Graduate,Beaches,Romance,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_Asian,1
+22,Female,Heterosexual,Non-hispanic whites,5,5,Swimming,Graduate,Beaches,Romance,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+24,Male,Heterosexual,African-Americans,5,200,Swimming,Graduate,Ranches,Romance,Vegan,Alcholic,Partner_Heterosexual,Partner_Asian,0
+27,Male,Heterosexual,Hispanic and Latino,10,10,Cycling,Post Graduate,Mountains,Romance,Vegan,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+23,Transgender,Heterosexual,Asian,5,15,Cooking,Post Graduate,Beaches,action,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+24,Male,Heterosexual,African-Americans,10,10,Swimming,Post Graduate,Beaches,action,Vegan,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+28,Female,Heterosexual,Asian,5,5,Gardening,Graduate,Adventure,action,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+34,Male,Heterosexual,African-Americans,5,10,Gardening,Post Graduate,Heritage,Satire,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+24,Male,Heterosexual,African-Americans,5,200,Swimming,Graduate,Ranches,Romance,Vegan,Alcholic,Partner_Heterosexual,Partner_Asian,0
+22,Transgender,Heterosexual,Non-hispanic whites,5,15,Swimming,Graduate,Adventure,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+32,Male,Heterosexual,Non-hispanic whites,5,20,Cooking,Uneducated,Beaches,Horror,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,0
+22,Male,Heterosexual,Non-hispanic whites,5,5,Gardening,Graduate,Beaches,Satire,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_African-Americans,1
+21,Female,Heterosexual,Non-hispanic whites,10,10,Swimming,Post Graduate,Mountains,Science Fiction,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_Asian,1
+19,Male,Heterosexual,Non-hispanic whites,5,15,Swimming,Graduate,Mountains,action,Non-vegetarian,Alcholic,Partner_Heterosexual,Native American,1
+18,Male,Heterosexual,Non-hispanic whites,10,10,Athletics,Post Graduate,Beaches,Romance,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Native Alakan,1
+17,Male,Heterosexual,Non-hispanic whites,5,15,Athletics,Uneducated,Adventure,Horror,Vegan,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,0
+22,Male,Heterosexual,Non-hispanic whites,5,10,Athletics,Graduate,Heritage,Romance,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_Hispanic and Latino,1
+23,Female,Heterosexual,Non-hispanic whites,5,5,Swimming,High School,Beaches,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Native American,1
+24,Female,Heterosexual,African-Americans,5,200,Swimming,Graduate,Ranches,Romance,Vegan,Alcholic,Partner_Heterosexual,Partner_Asian,0
+22,Female,Heterosexual,Non-hispanic whites,5,150,Swimming,Post Graduate,Beaches,Romance,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_Hispanic and Latino,0
+24,Male,Heterosexual,Non-hispanic whites,5,5,fishing,Graduate,Ranches,Romance,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+23,Male,Heterosexual,Non-hispanic whites,5,10,Athletics,High School,Beaches,action,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+21,Donot Disclose,Heterosexual,African-Americans,5,5,Cycling,High School,Mountains,Science Fiction,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+22,Male,Heterosexual,Non-hispanic whites,5,10,Cycling,High School,Ranches,Satire,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Hispanic and Latino,1
+24,Male,Heterosexual,Asian,5,150,Swimming,High School,Beaches,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Hispanic and Latino,1
+26,Male,Heterosexual,Native Americans,10,10,Cycling,Graduate,Beaches,action,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+35,Female,Heterosexual,Asian,5,150,Cooking,Under Graduate,Mountains,action,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_Non-hispanic whites,0
+24,Male,Heterosexual,Non-hispanic whites,5,200,Reading,Under Graduate,Beaches,Satire,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Hispanic and Latino,0
+26,Female,Heterosexual,Native Americans,15,200,Reading,Under Graduate,Mountains,action,Vegan,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,0
+34,Female,Heterosexual,African-Americans,5,10,Gardening,Post Graduate,Heritage,Satire,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+24,Male,Heterosexual,African-Americans,5,200,Swimming,Graduate,Ranches,Romance,Vegan,Alcholic,Partner_Heterosexual,Partner_Asian,0
+22,Donot Disclose,Heterosexual,Non-hispanic whites,5,15,Swimming,Graduate,Adventure,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+32,Male,Heterosexual,Non-hispanic whites,5,20,Cooking,Uneducated,Beaches,Horror,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,0
+22,Male,Heterosexual,Non-hispanic whites,5,200,Gardening,Graduate,Beaches,Satire,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_African-Americans,0
+21,Male,Heterosexual,Non-hispanic whites,10,10,Swimming,Post Graduate,Mountains,Science Fiction,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_Asian,1
+19,Female,Heterosexual,Non-hispanic whites,5,15,Swimming,Graduate,Mountains,action,Non-vegetarian,Alcholic,Partner_Heterosexual,Native American,1
+18,Female,Heterosexual,Non-hispanic whites,10,150,Athletics,Post Graduate,Beaches,Romance,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Native Alakan,0
+17,Female,Heterosexual,Non-hispanic whites,5,15,Athletics,Uneducated,Adventure,Horror,Vegan,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,0
+22,Male,Heterosexual,Non-hispanic whites,5,10,Athletics,Graduate,Heritage,Romance,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_Hispanic and Latino,1
+23,Male,Heterosexual,Non-hispanic whites,5,5,Swimming,High School,Beaches,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Native American,1
+24,Male,Heterosexual,African-Americans,5,200,Swimming,Graduate,Ranches,Romance,Vegan,Alcholic,Partner_Heterosexual,Partner_Asian,0
+22,Female,Heterosexual,Non-hispanic whites,5,150,Swimming,Post Graduate,Beaches,Romance,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_Hispanic and Latino,0
+24,Transgender,Heterosexual,Non-hispanic whites,5,5,fishing,Graduate,Ranches,Romance,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+23,Male,Heterosexual,Non-hispanic whites,5,10,Athletics,High School,Beaches,action,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+21,Female,Heterosexual,African-Americans,5,200,Cycling,High School,Mountains,Science Fiction,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+22,Transgender,Heterosexual,Non-hispanic whites,5,10,Cycling,High School,Ranches,Satire,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Hispanic and Latino,1
+24,Male,Heterosexual,Asian,5,150,Swimming,High School,Beaches,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Hispanic and Latino,1
+26,Male,Heterosexual,Native Americans,10,10,Cycling,Graduate,Beaches,action,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+35,Male,Heterosexual,Asian,5,150,Cooking,Under Graduate,Mountains,action,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_Non-hispanic whites,0
+24,Male,Heterosexual,Non-hispanic whites,5,200,Reading,Under Graduate,Beaches,Satire,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Hispanic and Latino,0
+26,Female,Heterosexual,Native Americans,15,200,Reading,Under Graduate,Mountains,action,Vegan,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,0
+24,Male,Bisexual,Hispanic and Latino,5,10,Cycling,Post Graduate,Beaches,Satire,Non-vegetarian,Alcholic,Partner_Bisexual,Partner_Hispanic and Latino,1
+25,Female,Heterosexual,Non-hispanic whites,10,10,Cooking,High School,Ranches,Science Fiction,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_Asian,1
+25,Male,Heterosexual,African-Americans,20,10,Swimming,Uneducated,Ranches,Romance,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_African-Americans,0
+24,Male,Heterosexual,African-Americans,5,20,Swimming,High School,Beaches,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_African-Americans,1
+24,Female,Heterosexual,African-Americans,5,200,Swimming,Graduate,Ranches,Romance,Vegan,Alcholic,Partner_Heterosexual,Partner_Asian,0
+25,Male,Heterosexual,Non-hispanic whites,5,5,Swimming,High School,Mountains,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+21,Female,Heterosexual,Non-hispanic whites,10,10,Cooking,High School,Beaches,Science Fiction,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_African-Americans,1
+19,Male,Bisexual,Non-hispanic whites,5,15,Cycling,Graduate,Mountains,Satire,Non-vegetarian,Alcholic,Partner_Bisexual,Partner_Hispanic and Latino,1
+21,Female,Heterosexual,Non-hispanic whites,10,10,Swimming,Graduate,Beaches,Romance,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_Asian,1
+22,Male,Heterosexual,Non-hispanic whites,5,5,Swimming,Graduate,Beaches,Romance,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+24,Male,Homosexual,African-Americans,5,200,Swimming,Uneducated,Ranches,Romance,Vegan,Alcholic,Partner_Homosexual,Partner_Asian,0
+27,Transgender,Heterosexual,Hispanic and Latino,10,10,Cycling,Post Graduate,Mountains,Romance,Vegan,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+23,Male,Asexual,Asian,5,15,Cooking,Post Graduate,Beaches,action,Non-vegetarian,Non Alcoholic,Asexual,Partner_Non-hispanic whites,1
+24,Female,Heterosexual,African-Americans,10,10,Swimming,Post Graduate,Beaches,action,Vegan,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+28,Male,Heterosexual,Asian,5,5,Gardening,Graduate,Adventure,action,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+34,Male,Homosexual,African-Americans,5,10,Gardening,Uneducated,Heritage,Satire,Vegan,Non Alcoholic,Partner_Homosexual,Partner_Non-hispanic whites,0
+24,Transgender,Heterosexual,African-Americans,5,200,Swimming,Graduate,Ranches,Romance,Vegan,Alcholic,Partner_Heterosexual,Partner_Asian,0
+22,Male,Heterosexual,Non-hispanic whites,5,15,Swimming,Graduate,Adventure,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+32,Male,Heterosexual,Non-hispanic whites,5,20,Cooking,Uneducated,Beaches,Horror,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,0
+22,Female,Heterosexual,Non-hispanic whites,5,5,Gardening,Graduate,Beaches,Satire,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_African-Americans,1
+21,Male,Heterosexual,Non-hispanic whites,10,10,Swimming,Post Graduate,Mountains,Science Fiction,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_Asian,1
+19,Male,Homosexual,Non-hispanic whites,5,15,Swimming,Uneducated,Mountains,action,Non-vegetarian,Alcholic,Partner_Homosexual,Native American,0
+18,Male,Heterosexual,Non-hispanic whites,10,10,Athletics,Post Graduate,Beaches,Romance,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Native Alakan,1
+17,Male,Heterosexual,Non-hispanic whites,5,15,Athletics,Uneducated,Adventure,Horror,Vegan,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,0
+22,Female,Heterosexual,Non-hispanic whites,5,10,Athletics,Graduate,Heritage,Romance,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_Hispanic and Latino,1
+23,Female,Heterosexual,Non-hispanic whites,5,5,Swimming,High School,Beaches,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Native American,1
+24,Female,Heterosexual,African-Americans,5,200,Swimming,Graduate,Ranches,Romance,Vegan,Alcholic,Partner_Heterosexual,Partner_Asian,0
+23,Male,Asexual,Non-hispanic whites,5,5,Cycling,Graduate,Mountains,Romance,Non-vegetarian,Alcholic,Asexual,Partner_Non-hispanic whites,1
+24,Male,Heterosexual,Non-hispanic whites,5,5,Swimming,Graduate,Beaches,Crime,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,0
+21,Donot Disclose,Heterosexual,African-Americans,5,5,Athletics,Graduate,Beaches,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_African-Americans,1
+22,Male,Heterosexual,African-Americans,5,5,Athletics,Graduate,Beaches,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_African-Americans,1
+18,Male,Homosexual,African-Americans,5,15,Cycling,Post Graduate,Heritage,Romance,Non-vegetarian,Alcholic,Partner_Homosexual,Partner_African-Americans,1
+22,Male,Heterosexual,Non-hispanic whites,5,10,Reading,Graduate,Heritage,Romance,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_African-Americans,1
+19,Female,Heterosexual,Hispanic and Latino,5,10,Swimming,High School,Adventure,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_African-Americans,1
+34,Male,Heterosexual,Hispanic and Latino,5,10,Athletics,High School,Adventure,Horror,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_Hispanic and Latino,0
+32,Female,Asexual,Asian,5,15,Swimming,High School,Beaches,Romance,Non-vegetarian,Alcholic,Asexual,Partner_Asian,1
+28,Female,Heterosexual,Asian,5,15,Swimming,Graduate,Mountains,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Asian,1
+25,Male,Homosexual,Asian,5,10,Reading,Under Graduate,Beaches,Science Fiction,Non-vegetarian,Alcholic,Partner_Homosexual,Partner_Asian,1
+18,Donot Disclose,Heterosexual,Asian,5,15,Cycling,Graduate,Beaches,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Asian,1
+19,Male,Heterosexual,Asian,5,100,Cycling,Under Graduate,Beaches,action,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Asian,0
+22,Male,Asexual,African-Americans,5,15,Swimming,High School,Beaches,Romance,Non-vegetarian,Alcholic,Asexual,Partner_Asian,1
+18,Male,Heterosexual,Non-hispanic whites,10,10,Reading,Graduate,Mountains,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Asian,1
+22,Female,Heterosexual,Hispanic and Latino,5,25,Cycling,Under Graduate,Beaches,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Asian,1
+21,Female,Heterosexual,Asian,5,10,Swimming,Graduate,Mountains,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Asian,1
+22,Female,Heterosexual,Non-hispanic whites,5,10,Cycling,Graduate,Beaches,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+23,Male,Heterosexual,Hispanic and Latino,5,5,Swimming,Under Graduate,Ranches,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Hispanic and Latino,1
+24,Male,Heterosexual,Asian,5,5,Cycling,High School,Mountains,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Asian,1
+25,Male,Heterosexual,Non-hispanic whites,5,10,Swimming,High School,Beaches,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+22,Female,Heterosexual,Non-hispanic whites,5,15,Swimming,Uneducated,Beaches,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,0
+23,Transgender,Heterosexual,Non-hispanic whites,5,15,Swimming,Uneducated,Mountains,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,0
+22,Male,Heterosexual,Asian,5,15,Cycling,Uneducated,Mountains,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Asian,0
+25,Female,Heterosexual,Non-hispanic whites,20,10,Cycling,Graduate,Mountains,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+19,Transgender,Heterosexual,Non-hispanic whites,5,15,Swimming,High School,Beaches,Science Fiction,Vegan,Alcholic,Partner_Heterosexual,Partner_African-Americans,1
+20,Male,Heterosexual,African-Americans,5,25,Reading,High School,Mountains,action,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Hispanic and Latino,1
+21,Male,Heterosexual,Hispanic and Latino,5,10,Cooking,High School,Beaches,Satire,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_Asian,0
+22,Male,Heterosexual,Asian,20,15,Cooking,Uneducated,Heritage,Horror,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Asian,0
+21,Male,Heterosexual,Non-hispanic whites,5,25,Swimming,High School,Heritage,Romance,Vegan,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+22,Female,Heterosexual,Non-hispanic whites,10,20,Cooking,Graduate,Mountains,action,Vegan,Alcholic,Partner_Heterosexual,Partner_African-Americans,1
+23,Male,Heterosexual,African-Americans,5,10,Swimming,High School,Beaches,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Hispanic and Latino,1
+21,Female,Heterosexual,Hispanic and Latino,10,15,Cycling,High School,Beaches,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Asian,1
+24,Male,Heterosexual,Asian,20,15,Cooking,Uneducated,Mountains,Horror,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Asian,0
+27,Male,Heterosexual,Non-hispanic whites,5,25,Reading,Graduate,Mountains,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Asian,1
+28,Female,Heterosexual,African-Americans,5,10,Cycling,Under Graduate,Beaches,Satire,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_Hispanic and Latino,1
+24,Male,Heterosexual,Hispanic and Latino,10,15,Swimming,Graduate,Mountains,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_African-Americans,1
+25,Female,Heterosexual,Asian,5,10,Cycling,High School,Beaches,action,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+25,Male,Heterosexual,African-Americans,10,10,Swimming,Uneducated,Ranches,Horror,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,0
+18,Female,Heterosexual,Asian,10,15,Cycling,Uneducated,Heritage,Horror,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_African-Americans,0
+21,Male,Heterosexual,African-Americans,10,10,Swimming,Uneducated,Ranches,Horror,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_Asian,0
+24,Male,Heterosexual,African-Americans,5,150,Swimming,Graduate,Ranches,action,Vegan,Alcholic,Partner_Heterosexual,Partner_Asian,0
+25,Transgender,Heterosexual,Non-hispanic whites,5,15,Cycling,Graduate,Beaches,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+22,Male,Heterosexual,African-Americans,10,10,Swimming,Under Graduate,Beaches,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_African-Americans,1
+24,Female,Heterosexual,Hispanic and Latino,5,10,Cycling,Post Graduate,Beaches,Satire,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Hispanic and Latino,1
+25,Male,Heterosexual,Non-hispanic whites,10,10,Cooking,High School,Ranches,Science Fiction,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_Asian,1
+25,Male,Heterosexual,African-Americans,20,10,Swimming,Uneducated,Ranches,Romance,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_African-Americans,0
+24,Transgender,Heterosexual,African-Americans,5,20,Swimming,High School,Beaches,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_African-Americans,1
+24,Male,Heterosexual,African-Americans,5,200,Swimming,Graduate,Ranches,Romance,Vegan,Alcholic,Partner_Heterosexual,Partner_Asian,0
+25,Male,Heterosexual,Non-hispanic whites,5,5,Swimming,High School,Mountains,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+21,Female,Heterosexual,Non-hispanic whites,10,10,Cooking,High School,Beaches,Science Fiction,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_African-Americans,1
+19,Male,Heterosexual,Non-hispanic whites,5,15,Cycling,Graduate,Mountains,Satire,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Hispanic and Latino,1
+21,Male,Heterosexual,Non-hispanic whites,10,10,Swimming,Graduate,Beaches,Romance,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_Asian,1
+22,Male,Heterosexual,Non-hispanic whites,5,5,Swimming,Graduate,Beaches,Romance,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+24,Male,Heterosexual,African-Americans,5,200,Swimming,Graduate,Ranches,Romance,Vegan,Alcholic,Partner_Heterosexual,Partner_Asian,0
+27,Female,Heterosexual,Hispanic and Latino,10,10,Cycling,Post Graduate,Mountains,Romance,Vegan,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+23,Female,Heterosexual,Asian,5,15,Cooking,Post Graduate,Beaches,action,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+24,Female,Heterosexual,African-Americans,10,10,Swimming,Post Graduate,Beaches,action,Vegan,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+28,Male,Heterosexual,Asian,5,5,Gardening,Graduate,Adventure,action,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+34,Male,Heterosexual,African-Americans,5,10,Gardening,Post Graduate,Heritage,Satire,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+24,Donot Disclose,Heterosexual,African-Americans,5,200,Swimming,Graduate,Ranches,Romance,Vegan,Alcholic,Partner_Heterosexual,Partner_Asian,0
+22,Male,Heterosexual,Non-hispanic whites,5,15,Swimming,Graduate,Adventure,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+32,Male,Heterosexual,Non-hispanic whites,5,20,Cooking,Uneducated,Beaches,Horror,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,0
+22,Male,Homosexual,Non-hispanic whites,5,5,Gardening,Graduate,Beaches,Satire,Non-vegetarian,Alcholic,Partner_Homosexual,Partner_African-Americans,1
+21,Female,Heterosexual,Non-hispanic whites,10,10,Swimming,Post Graduate,Mountains,Science Fiction,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_Asian,1
+19,Male,Heterosexual,Non-hispanic whites,5,15,Swimming,Graduate,Mountains,action,Non-vegetarian,Alcholic,Partner_Heterosexual,Native American,1
+18,Female,Heterosexual,Non-hispanic whites,10,10,Athletics,Post Graduate,Beaches,Romance,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Native Alakan,1
+17,Female,Heterosexual,Non-hispanic whites,5,15,Athletics,Uneducated,Adventure,Horror,Vegan,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,0
+22,Male,Heterosexual,Non-hispanic whites,5,10,Athletics,Graduate,Heritage,Romance,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_Hispanic and Latino,1
+23,Donot Disclose,Heterosexual,Non-hispanic whites,5,5,Swimming,High School,Beaches,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Native American,1
+24,Male,Heterosexual,African-Americans,5,200,Swimming,Graduate,Ranches,Romance,Vegan,Alcholic,Partner_Heterosexual,Partner_Asian,0
+22,Male,Heterosexual,Non-hispanic whites,5,150,Swimming,Post Graduate,Beaches,Romance,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_Hispanic and Latino,0
+24,Male,Heterosexual,Non-hispanic whites,5,5,fishing,Graduate,Ranches,Romance,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+23,Female,Heterosexual,Non-hispanic whites,5,10,Athletics,High School,Beaches,action,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+21,Female,Heterosexual,African-Americans,5,5,Cycling,High School,Mountains,Science Fiction,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+22,Female,Heterosexual,Non-hispanic whites,5,10,Cycling,High School,Ranches,Satire,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Hispanic and Latino,1
+24,Male,Heterosexual,Asian,5,150,Swimming,High School,Beaches,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Hispanic and Latino,1
+26,Male,Heterosexual,Native Americans,10,10,Cycling,Graduate,Beaches,action,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+35,Male,Heterosexual,Asian,5,150,Cooking,Under Graduate,Mountains,action,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_Non-hispanic whites,0
+24,Female,Heterosexual,Non-hispanic whites,5,200,Reading,Under Graduate,Beaches,Satire,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Hispanic and Latino,0
+26,Transgender,Heterosexual,Native Americans,15,200,Reading,Under Graduate,Mountains,action,Vegan,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,0
+34,Male,Heterosexual,African-Americans,5,10,Gardening,Post Graduate,Heritage,Satire,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+24,Female,Heterosexual,African-Americans,5,200,Swimming,Graduate,Ranches,Romance,Vegan,Alcholic,Partner_Heterosexual,Partner_Asian,0
+22,Male,Heterosexual,Non-hispanic whites,5,15,Swimming,Graduate,Adventure,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+32,Male,Heterosexual,Non-hispanic whites,5,20,Cooking,Uneducated,Beaches,Horror,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,0
+22,Male,Heterosexual,Non-hispanic whites,5,200,Gardening,Graduate,Beaches,Satire,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_African-Americans,0
+21,Male,Heterosexual,Non-hispanic whites,10,10,Swimming,Post Graduate,Mountains,Science Fiction,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_Asian,1
+19,Female,Heterosexual,Non-hispanic whites,5,15,Swimming,Graduate,Mountains,action,Non-vegetarian,Alcholic,Partner_Heterosexual,Native American,1
+18,Female,Heterosexual,Non-hispanic whites,10,150,Athletics,Post Graduate,Beaches,Romance,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Native Alakan,0
+17,Female,Heterosexual,Non-hispanic whites,5,15,Athletics,Uneducated,Adventure,Horror,Vegan,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,0
+22,Male,Heterosexual,Non-hispanic whites,5,10,Athletics,Graduate,Heritage,Romance,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_Hispanic and Latino,1
+23,Male,Heterosexual,Non-hispanic whites,5,5,Swimming,High School,Beaches,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Native American,1
+24,Male,Heterosexual,African-Americans,5,200,Swimming,Graduate,Ranches,Romance,Vegan,Alcholic,Partner_Heterosexual,Partner_Asian,0
+22,Female,Heterosexual,Non-hispanic whites,5,150,Swimming,Post Graduate,Beaches,Romance,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_Hispanic and Latino,0
+24,Male,Heterosexual,Non-hispanic whites,5,5,fishing,Graduate,Ranches,Romance,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+23,Female,Heterosexual,Non-hispanic whites,5,10,Athletics,High School,Beaches,action,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+21,Male,Heterosexual,African-Americans,5,200,Cycling,High School,Mountains,Science Fiction,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_Non-hispanic whites,0
+22,Male,Heterosexual,Non-hispanic whites,5,10,Cycling,High School,Ranches,Satire,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Hispanic and Latino,1
+24,Female,Heterosexual,Asian,5,150,Swimming,High School,Beaches,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Hispanic and Latino,1
+26,Male,Heterosexual,Native Americans,10,10,Cycling,Graduate,Beaches,action,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+35,Female,Heterosexual,Asian,5,150,Cooking,Under Graduate,Mountains,action,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_Non-hispanic whites,0
+24,Male,Heterosexual,Non-hispanic whites,5,200,Reading,Under Graduate,Beaches,Satire,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Hispanic and Latino,0
+26,Female,Heterosexual,Native Americans,15,200,Reading,Under Graduate,Mountains,action,Vegan,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,0
+24,Male,Bisexual,Hispanic and Latino,5,10,Cycling,Post Graduate,Beaches,Satire,Non-vegetarian,Alcholic,Partner_Bisexual,Partner_Hispanic and Latino,1
+25,Male,Heterosexual,Non-hispanic whites,10,10,Cooking,High School,Ranches,Science Fiction,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_Asian,1
+25,Male,Heterosexual,African-Americans,20,10,Swimming,Uneducated,Ranches,Romance,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_African-Americans,0
+24,Male,Heterosexual,African-Americans,5,20,Swimming,High School,Beaches,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_African-Americans,1
+24,Female,Heterosexual,African-Americans,5,200,Swimming,Graduate,Ranches,Romance,Vegan,Alcholic,Partner_Heterosexual,Partner_Asian,0
+25,Male,Heterosexual,Non-hispanic whites,5,5,Swimming,High School,Mountains,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+21,Female,Heterosexual,Non-hispanic whites,10,10,Cooking,High School,Beaches,Science Fiction,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_African-Americans,1
+19,Male,Bisexual,Non-hispanic whites,5,15,Cycling,Graduate,Mountains,Satire,Non-vegetarian,Alcholic,Partner_Bisexual,Partner_Hispanic and Latino,1
+21,Male,Heterosexual,Non-hispanic whites,10,10,Swimming,Graduate,Beaches,Romance,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_Asian,1
+22,Female,Heterosexual,Non-hispanic whites,5,5,Swimming,Graduate,Beaches,Romance,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+24,Male,Homosexual,African-Americans,5,200,Swimming,Uneducated,Ranches,Romance,Vegan,Alcholic,Partner_Homosexual,Partner_Asian,0
+27,Female,Heterosexual,Hispanic and Latino,10,10,Cycling,Post Graduate,Mountains,Romance,Vegan,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+23,Male,Asexual,Asian,5,15,Cooking,Post Graduate,Beaches,action,Non-vegetarian,Non Alcoholic,Asexual,Partner_Non-hispanic whites,1
+24,Female,Heterosexual,African-Americans,10,10,Swimming,Post Graduate,Beaches,action,Vegan,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+28,Male,Heterosexual,Asian,5,5,Gardening,Graduate,Adventure,action,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+34,Male,Homosexual,African-Americans,5,10,Gardening,Uneducated,Heritage,Satire,Vegan,Non Alcoholic,Partner_Homosexual,Partner_Non-hispanic whites,0
+24,Male,Heterosexual,African-Americans,5,200,Swimming,Graduate,Ranches,Romance,Vegan,Alcholic,Partner_Heterosexual,Partner_Asian,0
+22,Male,Heterosexual,Non-hispanic whites,5,15,Swimming,Graduate,Adventure,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+32,Female,Heterosexual,Non-hispanic whites,5,20,Cooking,Uneducated,Beaches,Horror,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,0
+22,Male,Heterosexual,Non-hispanic whites,5,5,Gardening,Graduate,Beaches,Satire,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_African-Americans,1
+21,Female,Heterosexual,Non-hispanic whites,10,10,Swimming,Post Graduate,Mountains,Science Fiction,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_Asian,1
+19,Male,Homosexual,Non-hispanic whites,5,15,Swimming,Uneducated,Mountains,action,Non-vegetarian,Alcholic,Partner_Homosexual,Native American,0
+18,Male,Heterosexual,Non-hispanic whites,10,10,Athletics,Post Graduate,Beaches,Romance,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Native Alakan,1
+17,Female,Heterosexual,Non-hispanic whites,5,15,Athletics,Uneducated,Adventure,Horror,Vegan,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,0
+22,Male,Heterosexual,Non-hispanic whites,5,10,Athletics,Graduate,Heritage,Romance,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_Hispanic and Latino,1
+23,Female,Heterosexual,Non-hispanic whites,5,5,Swimming,High School,Beaches,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Native American,1
+24,Male,Heterosexual,African-Americans,5,200,Swimming,Graduate,Ranches,Romance,Vegan,Alcholic,Partner_Heterosexual,Partner_Asian,0
+18,Male,Heterosexual,Non-hispanic whites,5,5,Cycling,High School,Beaches,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+19,Male,Heterosexual,Non-hispanic whites,5,10,Gardening,High School,Beaches,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+20,Male,Heterosexual,Non-hispanic whites,10,15,fishing,Under Graduate,Mountains,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+18,Female,Heterosexual,Non-hispanic whites,5,5,Cycling,Post Graduate,Ranches,Romance,Vegan,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+18,Male,Heterosexual,Non-hispanic whites,5,15,Swimming,Graduate,Adventure,Horror,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+22,Female,Heterosexual,Non-hispanic whites,5,15,Swimming,Under Graduate,Beaches,Romance,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+24,Male,Heterosexual,Hispanic and Latino,5,15,Reading,Under Graduate,Heritage,Romance,Vegan,Alcholic,Partner_Heterosexual,Partner_Hispanic and Latino,1
+25,Male,Heterosexual,Hispanic and Latino,5,15,Cycling,Uneducated,Beaches,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Hispanic and Latino,1
+28,Female,Heterosexual,Non-hispanic whites,5,10,Reading,Uneducated,Beaches,Horror,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_Hispanic and Latino,0
+22,Male,Heterosexual,Hispanic and Latino,5,10,Reading,Uneducated,Heritage,Horror,Vegan,Alcholic,Partner_Heterosexual,Partner_Hispanic and Latino,0
+24,Female,Heterosexual,Hispanic and Latino,10,5,Cooking,High School,Beaches,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Hispanic and Latino,1
+21,Male,Heterosexual,Non-hispanic whites,5,5,Reading,High School,Ranches,Horror,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_Non-hispanic whites,0
+21,Female,Heterosexual,Hispanic and Latino,5,10,Reading,High School,Beaches,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Hispanic and Latino,1
+22,Male,Heterosexual,Hispanic and Latino,5,5,cooking,Graduate,Mountains,Science Fiction,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_Hispanic and Latino,1
+23,Male,Heterosexual,Non-hispanic whites,5,5,Cycling,Graduate,Mountains,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+24,Transgender,Heterosexual,Non-hispanic whites,5,5,Swimming,Graduate,Beaches,Crime,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,0
+21,Male,Heterosexual,African-Americans,5,5,Athletics,Graduate,Beaches,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_African-Americans,1
+22,Female,Heterosexual,African-Americans,5,5,Athletics,Graduate,Beaches,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_African-Americans,1
+18,Male,Heterosexual,African-Americans,5,15,Cycling,Post Graduate,Heritage,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_African-Americans,1
+22,Male,Heterosexual,Non-hispanic whites,5,10,Reading,Graduate,Heritage,Romance,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_African-Americans,1
+19,Transgender,Heterosexual,Hispanic and Latino,5,10,Swimming,High School,Adventure,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_African-Americans,1
+34,Male,Heterosexual,Hispanic and Latino,5,10,Athletics,High School,Adventure,Horror,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_Hispanic and Latino,0
+32,Male,Heterosexual,Asian,5,15,Swimming,High School,Beaches,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Asian,1
+28,Female,Heterosexual,Asian,5,15,Swimming,Graduate,Mountains,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Asian,1
+25,Male,Heterosexual,Asian,5,10,Reading,Under Graduate,Beaches,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Asian,1
+18,Male,Heterosexual,Asian,5,15,Cycling,Graduate,Beaches,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Asian,1
+19,Male,Heterosexual,Asian,5,100,Cycling,Under Graduate,Beaches,action,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Asian,0
+22,Male,Heterosexual,African-Americans,5,15,Swimming,High School,Beaches,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Asian,1
+18,Female,Heterosexual,Non-hispanic whites,10,10,Reading,Graduate,Mountains,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Asian,1
+22,Female,Heterosexual,Hispanic and Latino,5,25,Cycling,Under Graduate,Beaches,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Asian,1
+21,Female,Heterosexual,Asian,5,10,Swimming,Graduate,Mountains,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Asian,1
+22,Male,Heterosexual,Non-hispanic whites,5,10,Cycling,Graduate,Beaches,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+23,Male,Heterosexual,Hispanic and Latino,5,5,Swimming,Under Graduate,Ranches,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Hispanic and Latino,1
+24,Donot Disclose,Heterosexual,Asian,5,5,Cycling,High School,Mountains,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Asian,1
+25,Male,Heterosexual,Non-hispanic whites,5,10,Swimming,High School,Beaches,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+22,Male,Heterosexual,Non-hispanic whites,5,15,Swimming,Uneducated,Beaches,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,0
+23,Male,Heterosexual,Non-hispanic whites,5,15,Swimming,Uneducated,Mountains,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,0
+22,Female,Heterosexual,Asian,5,15,Cycling,Uneducated,Mountains,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Asian,0
+25,Male,Heterosexual,Non-hispanic whites,20,10,Cycling,Graduate,Mountains,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+19,Female,Heterosexual,Non-hispanic whites,5,15,Swimming,High School,Beaches,Science Fiction,Vegan,Alcholic,Partner_Heterosexual,Partner_African-Americans,1
+20,Female,Heterosexual,African-Americans,5,25,Reading,High School,Mountains,action,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Hispanic and Latino,1
+21,Male,Heterosexual,Hispanic and Latino,5,10,Cooking,High School,Beaches,Satire,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_Asian,0
+22,Donot Disclose,Heterosexual,Asian,20,15,Cooking,Uneducated,Heritage,Horror,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Asian,0
+21,Male,Heterosexual,Non-hispanic whites,5,25,Swimming,High School,Heritage,Romance,Vegan,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+22,Male,Heterosexual,Non-hispanic whites,10,20,Cooking,Graduate,Mountains,action,Vegan,Alcholic,Partner_Heterosexual,Partner_African-Americans,1
+23,Male,Heterosexual,African-Americans,5,10,Swimming,High School,Beaches,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Hispanic and Latino,1
+21,Female,Heterosexual,Hispanic and Latino,10,15,Cycling,High School,Beaches,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Asian,1
+24,Female,Heterosexual,Asian,20,15,Cooking,Uneducated,Mountains,Horror,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Asian,0
+27,Female,Heterosexual,Non-hispanic whites,5,25,Reading,Graduate,Mountains,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Asian,1
+28,Male,Heterosexual,African-Americans,5,10,Cycling,Under Graduate,Beaches,Satire,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_Hispanic and Latino,1
+24,Male,Heterosexual,Hispanic and Latino,10,15,Swimming,Graduate,Mountains,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_African-Americans,1
+25,Male,Heterosexual,Asian,5,10,Cycling,High School,Beaches,action,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+25,Female,Heterosexual,African-Americans,10,10,Swimming,Uneducated,Ranches,Horror,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,0
+18,Transgender,Heterosexual,Asian,10,15,Cycling,Uneducated,Heritage,Horror,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_African-Americans,0
+21,Male,Heterosexual,African-Americans,10,10,Swimming,Uneducated,Ranches,Horror,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_Asian,0
+24,Male,Heterosexual,African-Americans,5,150,Swimming,Graduate,Ranches,action,Vegan,Alcholic,Partner_Heterosexual,Partner_Asian,0
+25,Male,Heterosexual,Non-hispanic whites,5,15,Cycling,Graduate,Beaches,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+22,Male,Heterosexual,African-Americans,10,10,Swimming,Under Graduate,Beaches,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_African-Americans,1
+24,Female,Heterosexual,Hispanic and Latino,5,10,Cycling,Post Graduate,Beaches,Satire,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Hispanic and Latino,1
+25,Male,Heterosexual,Non-hispanic whites,10,10,Cooking,High School,Ranches,Science Fiction,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_Asian,1
+25,Female,Heterosexual,African-Americans,20,10,Swimming,Uneducated,Ranches,Romance,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_African-Americans,0
+24,Male,Heterosexual,African-Americans,5,20,Swimming,High School,Beaches,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_African-Americans,1
+24,Male,Heterosexual,African-Americans,5,200,Swimming,Graduate,Ranches,Romance,Vegan,Alcholic,Partner_Heterosexual,Partner_Asian,0
+25,Female,Heterosexual,Non-hispanic whites,5,5,Swimming,High School,Mountains,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+21,Male,Heterosexual,Non-hispanic whites,10,10,Cooking,High School,Beaches,Science Fiction,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_African-Americans,1
+19,Female,Heterosexual,Non-hispanic whites,5,15,Cycling,Graduate,Mountains,Satire,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Hispanic and Latino,1
+21,Male,Heterosexual,Non-hispanic whites,10,10,Swimming,Graduate,Beaches,Romance,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_Asian,1
+22,Female,Heterosexual,Non-hispanic whites,5,5,Swimming,Graduate,Beaches,Romance,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+24,Male,Heterosexual,African-Americans,5,200,Swimming,Graduate,Ranches,Romance,Vegan,Alcholic,Partner_Heterosexual,Partner_Asian,0
+27,Male,Heterosexual,Hispanic and Latino,10,10,Cycling,Post Graduate,Mountains,Romance,Vegan,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+23,Transgender,Heterosexual,Asian,5,15,Cooking,Post Graduate,Beaches,action,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+24,Male,Heterosexual,African-Americans,10,10,Swimming,Post Graduate,Beaches,action,Vegan,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+28,Female,Heterosexual,Asian,5,5,Gardening,Graduate,Adventure,action,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+34,Male,Heterosexual,African-Americans,5,10,Gardening,Post Graduate,Heritage,Satire,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+24,Male,Heterosexual,African-Americans,5,200,Swimming,Graduate,Ranches,Romance,Vegan,Alcholic,Partner_Heterosexual,Partner_Asian,0
+22,Transgender,Heterosexual,Non-hispanic whites,5,15,Swimming,Graduate,Adventure,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+32,Male,Heterosexual,Non-hispanic whites,5,20,Cooking,Uneducated,Beaches,Horror,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,0
+22,Male,Heterosexual,Non-hispanic whites,5,5,Gardening,Graduate,Beaches,Satire,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_African-Americans,1
+21,Female,Heterosexual,Non-hispanic whites,10,10,Swimming,Post Graduate,Mountains,Science Fiction,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_Asian,1
+19,Male,Heterosexual,Non-hispanic whites,5,15,Swimming,Graduate,Mountains,action,Non-vegetarian,Alcholic,Partner_Heterosexual,Native American,1
+18,Male,Heterosexual,Non-hispanic whites,10,10,Athletics,Post Graduate,Beaches,Romance,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Native Alakan,1
+17,Male,Heterosexual,Non-hispanic whites,5,15,Athletics,Uneducated,Adventure,Horror,Vegan,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,0
+22,Male,Heterosexual,Non-hispanic whites,5,10,Athletics,Graduate,Heritage,Romance,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_Hispanic and Latino,1
+23,Female,Heterosexual,Non-hispanic whites,5,5,Swimming,High School,Beaches,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Native American,1
+24,Female,Heterosexual,African-Americans,5,200,Swimming,Graduate,Ranches,Romance,Vegan,Alcholic,Partner_Heterosexual,Partner_Asian,0
+22,Female,Heterosexual,Non-hispanic whites,5,150,Swimming,Post Graduate,Beaches,Romance,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_Hispanic and Latino,0
+24,Male,Heterosexual,Non-hispanic whites,5,5,fishing,Graduate,Ranches,Romance,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+23,Male,Heterosexual,Non-hispanic whites,5,10,Athletics,High School,Beaches,action,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+21,Donot Disclose,Heterosexual,African-Americans,5,5,Cycling,High School,Mountains,Science Fiction,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+22,Male,Heterosexual,Non-hispanic whites,5,10,Cycling,High School,Ranches,Satire,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Hispanic and Latino,1
+24,Male,Heterosexual,Asian,5,150,Swimming,High School,Beaches,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Hispanic and Latino,1
+26,Male,Heterosexual,Native Americans,10,10,Cycling,Graduate,Beaches,action,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+35,Female,Heterosexual,Asian,5,150,Cooking,Under Graduate,Mountains,action,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_Non-hispanic whites,0
+24,Male,Heterosexual,Non-hispanic whites,5,200,Reading,Under Graduate,Beaches,Satire,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Hispanic and Latino,0
+26,Female,Heterosexual,Native Americans,15,200,Reading,Under Graduate,Mountains,action,Vegan,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,0
+34,Female,Heterosexual,African-Americans,5,10,Gardening,Post Graduate,Heritage,Satire,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+24,Male,Heterosexual,African-Americans,5,200,Swimming,Graduate,Ranches,Romance,Vegan,Alcholic,Partner_Heterosexual,Partner_Asian,0
+22,Donot Disclose,Heterosexual,Non-hispanic whites,5,15,Swimming,Graduate,Adventure,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+32,Male,Heterosexual,Non-hispanic whites,5,20,Cooking,Uneducated,Beaches,Horror,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,0
+22,Male,Heterosexual,Non-hispanic whites,5,200,Gardening,Graduate,Beaches,Satire,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_African-Americans,0
+21,Male,Heterosexual,Non-hispanic whites,10,10,Swimming,Post Graduate,Mountains,Science Fiction,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_Asian,1
+19,Female,Heterosexual,Non-hispanic whites,5,15,Swimming,Graduate,Mountains,action,Non-vegetarian,Alcholic,Partner_Heterosexual,Native American,1
+18,Female,Heterosexual,Non-hispanic whites,10,150,Athletics,Post Graduate,Beaches,Romance,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Native Alakan,0
+17,Female,Heterosexual,Non-hispanic whites,5,15,Athletics,Uneducated,Adventure,Horror,Vegan,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,0
+22,Male,Heterosexual,Non-hispanic whites,5,10,Athletics,Graduate,Heritage,Romance,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_Hispanic and Latino,1
+23,Male,Heterosexual,Non-hispanic whites,5,5,Swimming,High School,Beaches,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Native American,1
+24,Male,Heterosexual,African-Americans,5,200,Swimming,Graduate,Ranches,Romance,Vegan,Alcholic,Partner_Heterosexual,Partner_Asian,0
+22,Female,Heterosexual,Non-hispanic whites,5,150,Swimming,Post Graduate,Beaches,Romance,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_Hispanic and Latino,0
+24,Transgender,Heterosexual,Non-hispanic whites,5,5,fishing,Graduate,Ranches,Romance,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+23,Male,Heterosexual,Non-hispanic whites,5,10,Athletics,High School,Beaches,action,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+21,Female,Heterosexual,African-Americans,5,200,Cycling,High School,Mountains,Science Fiction,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+22,Transgender,Heterosexual,Non-hispanic whites,5,10,Cycling,High School,Ranches,Satire,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Hispanic and Latino,1
+24,Male,Heterosexual,Asian,5,150,Swimming,High School,Beaches,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Hispanic and Latino,1
+26,Male,Heterosexual,Native Americans,10,10,Cycling,Graduate,Beaches,action,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+35,Male,Heterosexual,Asian,5,150,Cooking,Under Graduate,Mountains,action,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_Non-hispanic whites,0
+24,Male,Heterosexual,Non-hispanic whites,5,200,Reading,Under Graduate,Beaches,Satire,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Hispanic and Latino,0
+26,Female,Heterosexual,Native Americans,15,200,Reading,Under Graduate,Mountains,action,Vegan,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,0
+24,Male,Bisexual,Hispanic and Latino,5,10,Cycling,Post Graduate,Beaches,Satire,Non-vegetarian,Alcholic,Partner_Bisexual,Partner_Hispanic and Latino,1
+25,Female,Heterosexual,Non-hispanic whites,10,10,Cooking,High School,Ranches,Science Fiction,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_Asian,1
+25,Male,Heterosexual,African-Americans,20,10,Swimming,Uneducated,Ranches,Romance,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_African-Americans,0
+24,Male,Heterosexual,African-Americans,5,20,Swimming,High School,Beaches,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_African-Americans,1
+24,Female,Heterosexual,African-Americans,5,200,Swimming,Graduate,Ranches,Romance,Vegan,Alcholic,Partner_Heterosexual,Partner_Asian,0
+25,Male,Heterosexual,Non-hispanic whites,5,5,Swimming,High School,Mountains,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+21,Female,Heterosexual,Non-hispanic whites,10,10,Cooking,High School,Beaches,Science Fiction,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_African-Americans,1
+19,Male,Bisexual,Non-hispanic whites,5,15,Cycling,Graduate,Mountains,Satire,Non-vegetarian,Alcholic,Partner_Bisexual,Partner_Hispanic and Latino,1
+21,Female,Heterosexual,Non-hispanic whites,10,10,Swimming,Graduate,Beaches,Romance,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_Asian,1
+22,Male,Heterosexual,Non-hispanic whites,5,5,Swimming,Graduate,Beaches,Romance,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+24,Male,Homosexual,African-Americans,5,200,Swimming,Uneducated,Ranches,Romance,Vegan,Alcholic,Partner_Homosexual,Partner_Asian,0
+27,Transgender,Heterosexual,Hispanic and Latino,10,10,Cycling,Post Graduate,Mountains,Romance,Vegan,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+23,Male,Asexual,Asian,5,15,Cooking,Post Graduate,Beaches,action,Non-vegetarian,Non Alcoholic,Asexual,Partner_Non-hispanic whites,1
+24,Female,Heterosexual,African-Americans,10,10,Swimming,Post Graduate,Beaches,action,Vegan,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+28,Male,Heterosexual,Asian,5,5,Gardening,Graduate,Adventure,action,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+34,Male,Homosexual,African-Americans,5,10,Gardening,Uneducated,Heritage,Satire,Vegan,Non Alcoholic,Partner_Homosexual,Partner_Non-hispanic whites,0
+24,Transgender,Heterosexual,African-Americans,5,200,Swimming,Graduate,Ranches,Romance,Vegan,Alcholic,Partner_Heterosexual,Partner_Asian,0
+22,Male,Heterosexual,Non-hispanic whites,5,15,Swimming,Graduate,Adventure,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+32,Male,Heterosexual,Non-hispanic whites,5,20,Cooking,Uneducated,Beaches,Horror,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,0
+22,Female,Heterosexual,Non-hispanic whites,5,5,Gardening,Graduate,Beaches,Satire,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_African-Americans,1
+21,Male,Heterosexual,Non-hispanic whites,10,10,Swimming,Post Graduate,Mountains,Science Fiction,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_Asian,1
+19,Male,Homosexual,Non-hispanic whites,5,15,Swimming,Uneducated,Mountains,action,Non-vegetarian,Alcholic,Partner_Homosexual,Native American,0
+18,Male,Heterosexual,Non-hispanic whites,10,10,Athletics,Post Graduate,Beaches,Romance,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Native Alakan,1
+17,Male,Heterosexual,Non-hispanic whites,5,15,Athletics,Uneducated,Adventure,Horror,Vegan,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,0
+22,Female,Heterosexual,Non-hispanic whites,5,10,Athletics,Graduate,Heritage,Romance,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_Hispanic and Latino,1
+23,Female,Heterosexual,Non-hispanic whites,5,5,Swimming,High School,Beaches,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Native American,1
+24,Female,Heterosexual,African-Americans,5,200,Swimming,Graduate,Ranches,Romance,Vegan,Alcholic,Partner_Heterosexual,Partner_Asian,0
+23,Male,Asexual,Non-hispanic whites,5,5,Cycling,Graduate,Mountains,Romance,Non-vegetarian,Alcholic,Asexual,Partner_Non-hispanic whites,1
+24,Male,Heterosexual,Non-hispanic whites,5,5,Swimming,Graduate,Beaches,Crime,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,0
+21,Donot Disclose,Heterosexual,African-Americans,5,5,Athletics,Graduate,Beaches,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_African-Americans,1
+22,Male,Heterosexual,African-Americans,5,5,Athletics,Graduate,Beaches,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_African-Americans,1
+18,Male,Homosexual,African-Americans,5,15,Cycling,Post Graduate,Heritage,Romance,Non-vegetarian,Alcholic,Partner_Homosexual,Partner_African-Americans,1
+22,Male,Heterosexual,Non-hispanic whites,5,10,Reading,Graduate,Heritage,Romance,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_African-Americans,1
+19,Female,Heterosexual,Hispanic and Latino,5,10,Swimming,High School,Adventure,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_African-Americans,1
+34,Male,Heterosexual,Hispanic and Latino,5,10,Athletics,High School,Adventure,Horror,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_Hispanic and Latino,0
+32,Female,Asexual,Asian,5,15,Swimming,High School,Beaches,Romance,Non-vegetarian,Alcholic,Asexual,Partner_Asian,1
+28,Female,Heterosexual,Asian,5,15,Swimming,Graduate,Mountains,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Asian,1
+25,Male,Homosexual,Asian,5,10,Reading,Under Graduate,Beaches,Science Fiction,Non-vegetarian,Alcholic,Partner_Homosexual,Partner_Asian,1
+18,Donot Disclose,Heterosexual,Asian,5,15,Cycling,Graduate,Beaches,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Asian,1
+19,Male,Heterosexual,Asian,5,100,Cycling,Under Graduate,Beaches,action,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Asian,0
+22,Male,Asexual,African-Americans,5,15,Swimming,High School,Beaches,Romance,Non-vegetarian,Alcholic,Asexual,Partner_Asian,1
+18,Male,Heterosexual,Non-hispanic whites,10,10,Reading,Graduate,Mountains,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Asian,1
+22,Female,Heterosexual,Hispanic and Latino,5,25,Cycling,Under Graduate,Beaches,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Asian,1
+21,Female,Heterosexual,Asian,5,10,Swimming,Graduate,Mountains,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Asian,1
+22,Female,Heterosexual,Non-hispanic whites,5,10,Cycling,Graduate,Beaches,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+23,Male,Heterosexual,Hispanic and Latino,5,5,Swimming,Under Graduate,Ranches,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Hispanic and Latino,1
+24,Male,Heterosexual,Asian,5,5,Cycling,High School,Mountains,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Asian,1
+25,Male,Heterosexual,Non-hispanic whites,5,10,Swimming,High School,Beaches,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+22,Female,Heterosexual,Non-hispanic whites,5,15,Swimming,Uneducated,Beaches,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,0
+23,Transgender,Heterosexual,Non-hispanic whites,5,15,Swimming,Uneducated,Mountains,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,0
+22,Male,Heterosexual,Asian,5,15,Cycling,Uneducated,Mountains,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Asian,0
+25,Female,Heterosexual,Non-hispanic whites,20,10,Cycling,Graduate,Mountains,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+19,Transgender,Heterosexual,Non-hispanic whites,5,15,Swimming,High School,Beaches,Science Fiction,Vegan,Alcholic,Partner_Heterosexual,Partner_African-Americans,1
+20,Male,Heterosexual,African-Americans,5,25,Reading,High School,Mountains,action,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Hispanic and Latino,1
+21,Male,Heterosexual,Hispanic and Latino,5,10,Cooking,High School,Beaches,Satire,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_Asian,0
+22,Male,Heterosexual,Asian,20,15,Cooking,Uneducated,Heritage,Horror,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Asian,0
+21,Male,Heterosexual,Non-hispanic whites,5,25,Swimming,High School,Heritage,Romance,Vegan,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+22,Female,Heterosexual,Non-hispanic whites,10,20,Cooking,Graduate,Mountains,action,Vegan,Alcholic,Partner_Heterosexual,Partner_African-Americans,1
+23,Male,Heterosexual,African-Americans,5,10,Swimming,High School,Beaches,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Hispanic and Latino,1
+21,Female,Heterosexual,Hispanic and Latino,10,15,Cycling,High School,Beaches,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Asian,1
+24,Male,Heterosexual,Asian,20,15,Cooking,Uneducated,Mountains,Horror,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Asian,0
+27,Male,Heterosexual,Non-hispanic whites,5,25,Reading,Graduate,Mountains,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Asian,1
+28,Female,Heterosexual,African-Americans,5,10,Cycling,Under Graduate,Beaches,Satire,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_Hispanic and Latino,1
+24,Male,Heterosexual,Hispanic and Latino,10,15,Swimming,Graduate,Mountains,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_African-Americans,1
+25,Female,Heterosexual,Asian,5,10,Cycling,High School,Beaches,action,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+25,Male,Heterosexual,African-Americans,10,10,Swimming,Uneducated,Ranches,Horror,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,0
+18,Female,Heterosexual,Asian,10,15,Cycling,Uneducated,Heritage,Horror,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_African-Americans,0
+21,Male,Heterosexual,African-Americans,10,10,Swimming,Uneducated,Ranches,Horror,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_Asian,0
+24,Male,Heterosexual,African-Americans,5,150,Swimming,Graduate,Ranches,action,Vegan,Alcholic,Partner_Heterosexual,Partner_Asian,0
+25,Transgender,Heterosexual,Non-hispanic whites,5,15,Cycling,Graduate,Beaches,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+22,Male,Heterosexual,African-Americans,10,10,Swimming,Under Graduate,Beaches,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_African-Americans,1
+24,Female,Heterosexual,Hispanic and Latino,5,10,Cycling,Post Graduate,Beaches,Satire,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Hispanic and Latino,1
+25,Male,Heterosexual,Non-hispanic whites,10,10,Cooking,High School,Ranches,Science Fiction,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_Asian,1
+25,Male,Heterosexual,African-Americans,20,10,Swimming,Uneducated,Ranches,Romance,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_African-Americans,0
+24,Transgender,Heterosexual,African-Americans,5,20,Swimming,High School,Beaches,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_African-Americans,1
+24,Male,Heterosexual,African-Americans,5,200,Swimming,Graduate,Ranches,Romance,Vegan,Alcholic,Partner_Heterosexual,Partner_Asian,0
+25,Male,Heterosexual,Non-hispanic whites,5,5,Swimming,High School,Mountains,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+21,Female,Heterosexual,Non-hispanic whites,10,10,Cooking,High School,Beaches,Science Fiction,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_African-Americans,1
+19,Male,Heterosexual,Non-hispanic whites,5,15,Cycling,Graduate,Mountains,Satire,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Hispanic and Latino,1
+21,Male,Heterosexual,Non-hispanic whites,10,10,Swimming,Graduate,Beaches,Romance,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_Asian,1
+22,Male,Heterosexual,Non-hispanic whites,5,5,Swimming,Graduate,Beaches,Romance,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+24,Male,Heterosexual,African-Americans,5,200,Swimming,Graduate,Ranches,Romance,Vegan,Alcholic,Partner_Heterosexual,Partner_Asian,0
+27,Female,Heterosexual,Hispanic and Latino,10,10,Cycling,Post Graduate,Mountains,Romance,Vegan,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+23,Female,Heterosexual,Asian,5,15,Cooking,Post Graduate,Beaches,action,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+24,Female,Heterosexual,African-Americans,10,10,Swimming,Post Graduate,Beaches,action,Vegan,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+28,Male,Heterosexual,Asian,5,5,Gardening,Graduate,Adventure,action,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+34,Male,Heterosexual,African-Americans,5,10,Gardening,Post Graduate,Heritage,Satire,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+24,Donot Disclose,Heterosexual,African-Americans,5,200,Swimming,Graduate,Ranches,Romance,Vegan,Alcholic,Partner_Heterosexual,Partner_Asian,0
+22,Male,Heterosexual,Non-hispanic whites,5,15,Swimming,Graduate,Adventure,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+32,Male,Heterosexual,Non-hispanic whites,5,20,Cooking,Uneducated,Beaches,Horror,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,0
+22,Male,Homosexual,Non-hispanic whites,5,5,Gardening,Graduate,Beaches,Satire,Non-vegetarian,Alcholic,Partner_Homosexual,Partner_African-Americans,1
+21,Female,Heterosexual,Non-hispanic whites,10,10,Swimming,Post Graduate,Mountains,Science Fiction,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_Asian,1
+19,Male,Heterosexual,Non-hispanic whites,5,15,Swimming,Graduate,Mountains,action,Non-vegetarian,Alcholic,Partner_Heterosexual,Native American,1
+18,Female,Heterosexual,Non-hispanic whites,10,10,Athletics,Post Graduate,Beaches,Romance,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Native Alakan,1
+17,Female,Heterosexual,Non-hispanic whites,5,15,Athletics,Uneducated,Adventure,Horror,Vegan,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,0
+22,Male,Heterosexual,Non-hispanic whites,5,10,Athletics,Graduate,Heritage,Romance,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_Hispanic and Latino,1
+23,Donot Disclose,Heterosexual,Non-hispanic whites,5,5,Swimming,High School,Beaches,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Native American,1
+24,Male,Heterosexual,African-Americans,5,200,Swimming,Graduate,Ranches,Romance,Vegan,Alcholic,Partner_Heterosexual,Partner_Asian,0
+22,Male,Heterosexual,Non-hispanic whites,5,150,Swimming,Post Graduate,Beaches,Romance,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_Hispanic and Latino,0
+24,Male,Heterosexual,Non-hispanic whites,5,5,fishing,Graduate,Ranches,Romance,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+23,Female,Heterosexual,Non-hispanic whites,5,10,Athletics,High School,Beaches,action,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+21,Female,Heterosexual,African-Americans,5,5,Cycling,High School,Mountains,Science Fiction,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+22,Female,Heterosexual,Non-hispanic whites,5,10,Cycling,High School,Ranches,Satire,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Hispanic and Latino,1
+24,Male,Heterosexual,Asian,5,150,Swimming,High School,Beaches,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Hispanic and Latino,1
+26,Male,Heterosexual,Native Americans,10,10,Cycling,Graduate,Beaches,action,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+35,Male,Heterosexual,Asian,5,150,Cooking,Under Graduate,Mountains,action,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_Non-hispanic whites,0
+24,Female,Heterosexual,Non-hispanic whites,5,200,Reading,Under Graduate,Beaches,Satire,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Hispanic and Latino,0
+26,Transgender,Heterosexual,Native Americans,15,200,Reading,Under Graduate,Mountains,action,Vegan,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,0
+34,Male,Heterosexual,African-Americans,5,10,Gardening,Post Graduate,Heritage,Satire,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+24,Female,Heterosexual,African-Americans,5,200,Swimming,Graduate,Ranches,Romance,Vegan,Alcholic,Partner_Heterosexual,Partner_Asian,0
+22,Male,Heterosexual,Non-hispanic whites,5,15,Swimming,Graduate,Adventure,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+32,Male,Heterosexual,Non-hispanic whites,5,20,Cooking,Uneducated,Beaches,Horror,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,0
+22,Male,Heterosexual,Non-hispanic whites,5,200,Gardening,Graduate,Beaches,Satire,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_African-Americans,0
+21,Male,Heterosexual,Non-hispanic whites,10,10,Swimming,Post Graduate,Mountains,Science Fiction,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_Asian,1
+19,Female,Heterosexual,Non-hispanic whites,5,15,Swimming,Graduate,Mountains,action,Non-vegetarian,Alcholic,Partner_Heterosexual,Native American,1
+18,Female,Heterosexual,Non-hispanic whites,10,150,Athletics,Post Graduate,Beaches,Romance,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Native Alakan,0
+17,Female,Heterosexual,Non-hispanic whites,5,15,Athletics,Uneducated,Adventure,Horror,Vegan,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,0
+22,Male,Heterosexual,Non-hispanic whites,5,10,Athletics,Graduate,Heritage,Romance,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_Hispanic and Latino,1
+23,Male,Heterosexual,Non-hispanic whites,5,5,Swimming,High School,Beaches,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Native American,1
+24,Male,Heterosexual,African-Americans,5,200,Swimming,Graduate,Ranches,Romance,Vegan,Alcholic,Partner_Heterosexual,Partner_Asian,0
+22,Female,Heterosexual,Non-hispanic whites,5,150,Swimming,Post Graduate,Beaches,Romance,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_Hispanic and Latino,0
+24,Male,Heterosexual,Non-hispanic whites,5,5,fishing,Graduate,Ranches,Romance,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+23,Female,Heterosexual,Non-hispanic whites,5,10,Athletics,High School,Beaches,action,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+21,Male,Heterosexual,African-Americans,5,200,Cycling,High School,Mountains,Science Fiction,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_Non-hispanic whites,0
+22,Male,Heterosexual,Non-hispanic whites,5,10,Cycling,High School,Ranches,Satire,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Hispanic and Latino,1
+24,Female,Heterosexual,Asian,5,150,Swimming,High School,Beaches,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Hispanic and Latino,1
+26,Male,Heterosexual,Native Americans,10,10,Cycling,Graduate,Beaches,action,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+35,Female,Heterosexual,Asian,5,150,Cooking,Under Graduate,Mountains,action,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_Non-hispanic whites,0
+24,Male,Heterosexual,Non-hispanic whites,5,200,Reading,Under Graduate,Beaches,Satire,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Hispanic and Latino,0
+26,Female,Heterosexual,Native Americans,15,200,Reading,Under Graduate,Mountains,action,Vegan,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,0
+24,Male,Bisexual,Hispanic and Latino,5,10,Cycling,Post Graduate,Beaches,Satire,Non-vegetarian,Alcholic,Partner_Bisexual,Partner_Hispanic and Latino,1
+25,Male,Heterosexual,Non-hispanic whites,10,10,Cooking,High School,Ranches,Science Fiction,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_Asian,1
+25,Male,Heterosexual,African-Americans,20,10,Swimming,Uneducated,Ranches,Romance,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_African-Americans,0
+24,Male,Heterosexual,African-Americans,5,20,Swimming,High School,Beaches,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_African-Americans,1
+24,Female,Heterosexual,African-Americans,5,200,Swimming,Graduate,Ranches,Romance,Vegan,Alcholic,Partner_Heterosexual,Partner_Asian,0
+25,Male,Heterosexual,Non-hispanic whites,5,5,Swimming,High School,Mountains,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+21,Female,Heterosexual,Non-hispanic whites,10,10,Cooking,High School,Beaches,Science Fiction,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_African-Americans,1
+19,Male,Bisexual,Non-hispanic whites,5,15,Cycling,Graduate,Mountains,Satire,Non-vegetarian,Alcholic,Partner_Bisexual,Partner_Hispanic and Latino,1
+21,Male,Heterosexual,Non-hispanic whites,10,10,Swimming,Graduate,Beaches,Romance,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_Asian,1
+22,Female,Heterosexual,Non-hispanic whites,5,5,Swimming,Graduate,Beaches,Romance,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+24,Male,Homosexual,African-Americans,5,200,Swimming,Uneducated,Ranches,Romance,Vegan,Alcholic,Partner_Homosexual,Partner_Asian,0
+27,Female,Heterosexual,Hispanic and Latino,10,10,Cycling,Post Graduate,Mountains,Romance,Vegan,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+23,Male,Asexual,Asian,5,15,Cooking,Post Graduate,Beaches,action,Non-vegetarian,Non Alcoholic,Asexual,Partner_Non-hispanic whites,1
+24,Female,Heterosexual,African-Americans,10,10,Swimming,Post Graduate,Beaches,action,Vegan,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+28,Male,Heterosexual,Asian,5,5,Gardening,Graduate,Adventure,action,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+34,Male,Homosexual,African-Americans,5,10,Gardening,Uneducated,Heritage,Satire,Vegan,Non Alcoholic,Partner_Homosexual,Partner_Non-hispanic whites,0
+24,Male,Heterosexual,African-Americans,5,200,Swimming,Graduate,Ranches,Romance,Vegan,Alcholic,Partner_Heterosexual,Partner_Asian,0
+22,Male,Heterosexual,Non-hispanic whites,5,15,Swimming,Graduate,Adventure,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+32,Female,Heterosexual,Non-hispanic whites,5,20,Cooking,Uneducated,Beaches,Horror,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,0
+22,Male,Heterosexual,Non-hispanic whites,5,5,Gardening,Graduate,Beaches,Satire,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_African-Americans,1
+21,Female,Heterosexual,Non-hispanic whites,10,10,Swimming,Post Graduate,Mountains,Science Fiction,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_Asian,1
+19,Male,Homosexual,Non-hispanic whites,5,15,Swimming,Uneducated,Mountains,action,Non-vegetarian,Alcholic,Partner_Homosexual,Native American,0
+18,Male,Heterosexual,Non-hispanic whites,10,10,Athletics,Post Graduate,Beaches,Romance,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Native Alakan,1
+17,Female,Heterosexual,Non-hispanic whites,5,15,Athletics,Uneducated,Adventure,Horror,Vegan,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,0
+22,Male,Heterosexual,Non-hispanic whites,5,10,Athletics,Graduate,Heritage,Romance,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_Hispanic and Latino,1
+23,Female,Heterosexual,Non-hispanic whites,5,5,Swimming,High School,Beaches,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Native American,1
+24,Male,Heterosexual,African-Americans,5,200,Swimming,Graduate,Ranches,Romance,Vegan,Alcholic,Partner_Heterosexual,Partner_Asian,0
+18,Male,Heterosexual,Non-hispanic whites,5,5,Cycling,High School,Beaches,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+19,Male,Heterosexual,Non-hispanic whites,5,10,Gardening,High School,Beaches,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+20,Male,Heterosexual,Non-hispanic whites,10,15,fishing,Under Graduate,Mountains,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+18,Female,Heterosexual,Non-hispanic whites,5,5,Cycling,Post Graduate,Ranches,Romance,Vegan,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+18,Male,Heterosexual,Non-hispanic whites,5,15,Swimming,Graduate,Adventure,Horror,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+22,Female,Heterosexual,Non-hispanic whites,5,15,Swimming,Under Graduate,Beaches,Romance,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+24,Male,Heterosexual,Hispanic and Latino,5,15,Reading,Under Graduate,Heritage,Romance,Vegan,Alcholic,Partner_Heterosexual,Partner_Hispanic and Latino,1
+25,Male,Heterosexual,Hispanic and Latino,5,15,Cycling,Uneducated,Beaches,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Hispanic and Latino,1
+28,Female,Heterosexual,Non-hispanic whites,5,10,Reading,Uneducated,Beaches,Horror,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_Hispanic and Latino,0
+22,Male,Heterosexual,Hispanic and Latino,5,10,Reading,Uneducated,Heritage,Horror,Vegan,Alcholic,Partner_Heterosexual,Partner_Hispanic and Latino,0
+24,Female,Heterosexual,Hispanic and Latino,10,5,Cooking,High School,Beaches,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Hispanic and Latino,1
+21,Male,Heterosexual,Non-hispanic whites,5,5,Reading,High School,Ranches,Horror,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_Non-hispanic whites,0
+21,Female,Heterosexual,Hispanic and Latino,5,10,Reading,High School,Beaches,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Hispanic and Latino,1
+22,Male,Heterosexual,Hispanic and Latino,5,5,cooking,Graduate,Mountains,Science Fiction,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_Hispanic and Latino,1
+23,Male,Heterosexual,Non-hispanic whites,5,5,Cycling,Graduate,Mountains,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+24,Transgender,Heterosexual,Non-hispanic whites,5,5,Swimming,Graduate,Beaches,Crime,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,0
+21,Male,Heterosexual,African-Americans,5,5,Athletics,Graduate,Beaches,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_African-Americans,1
+22,Female,Heterosexual,African-Americans,5,5,Athletics,Graduate,Beaches,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_African-Americans,1
+18,Male,Heterosexual,African-Americans,5,15,Cycling,Post Graduate,Heritage,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_African-Americans,1
+22,Male,Heterosexual,Non-hispanic whites,5,10,Reading,Graduate,Heritage,Romance,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_African-Americans,1
+19,Transgender,Heterosexual,Hispanic and Latino,5,10,Swimming,High School,Adventure,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_African-Americans,1
+34,Male,Heterosexual,Hispanic and Latino,5,10,Athletics,High School,Adventure,Horror,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_Hispanic and Latino,0
+32,Male,Heterosexual,Asian,5,15,Swimming,High School,Beaches,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Asian,1
+28,Female,Heterosexual,Asian,5,15,Swimming,Graduate,Mountains,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Asian,1
+25,Male,Heterosexual,Asian,5,10,Reading,Under Graduate,Beaches,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Asian,1
+18,Male,Heterosexual,Asian,5,15,Cycling,Graduate,Beaches,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Asian,1
+19,Male,Heterosexual,Asian,5,100,Cycling,Under Graduate,Beaches,action,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Asian,0
+22,Male,Heterosexual,African-Americans,5,15,Swimming,High School,Beaches,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Asian,1
+18,Female,Heterosexual,Non-hispanic whites,10,10,Reading,Graduate,Mountains,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Asian,1
+22,Female,Heterosexual,Hispanic and Latino,5,25,Cycling,Under Graduate,Beaches,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Asian,1
+21,Female,Heterosexual,Asian,5,10,Swimming,Graduate,Mountains,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Asian,1
+22,Male,Heterosexual,Non-hispanic whites,5,10,Cycling,Graduate,Beaches,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+23,Male,Heterosexual,Hispanic and Latino,5,5,Swimming,Under Graduate,Ranches,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Hispanic and Latino,1
+24,Donot Disclose,Heterosexual,Asian,5,5,Cycling,High School,Mountains,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Asian,1
+25,Male,Heterosexual,Non-hispanic whites,5,10,Swimming,High School,Beaches,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+22,Male,Heterosexual,Non-hispanic whites,5,15,Swimming,Uneducated,Beaches,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,0
+23,Male,Heterosexual,Non-hispanic whites,5,15,Swimming,Uneducated,Mountains,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,0
+22,Female,Heterosexual,Asian,5,15,Cycling,Uneducated,Mountains,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Asian,0
+25,Male,Heterosexual,Non-hispanic whites,20,10,Cycling,Graduate,Mountains,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+19,Female,Heterosexual,Non-hispanic whites,5,15,Swimming,High School,Beaches,Science Fiction,Vegan,Alcholic,Partner_Heterosexual,Partner_African-Americans,1
+20,Female,Heterosexual,African-Americans,5,25,Reading,High School,Mountains,action,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Hispanic and Latino,1
+21,Male,Heterosexual,Hispanic and Latino,5,10,Cooking,High School,Beaches,Satire,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_Asian,0
+22,Donot Disclose,Heterosexual,Asian,20,15,Cooking,Uneducated,Heritage,Horror,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Asian,0
+21,Male,Heterosexual,Non-hispanic whites,5,25,Swimming,High School,Heritage,Romance,Vegan,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+22,Male,Heterosexual,Non-hispanic whites,10,20,Cooking,Graduate,Mountains,action,Vegan,Alcholic,Partner_Heterosexual,Partner_African-Americans,1
+23,Male,Heterosexual,African-Americans,5,10,Swimming,High School,Beaches,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Hispanic and Latino,1
+21,Female,Heterosexual,Hispanic and Latino,10,15,Cycling,High School,Beaches,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Asian,1
+24,Female,Heterosexual,Asian,20,15,Cooking,Uneducated,Mountains,Horror,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Asian,0
+27,Female,Heterosexual,Non-hispanic whites,5,25,Reading,Graduate,Mountains,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Asian,1
+28,Male,Heterosexual,African-Americans,5,10,Cycling,Under Graduate,Beaches,Satire,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_Hispanic and Latino,1
+24,Male,Heterosexual,Hispanic and Latino,10,15,Swimming,Graduate,Mountains,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_African-Americans,1
+25,Male,Heterosexual,Asian,5,10,Cycling,High School,Beaches,action,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+25,Female,Heterosexual,African-Americans,10,10,Swimming,Uneducated,Ranches,Horror,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,0
+18,Transgender,Heterosexual,Asian,10,15,Cycling,Uneducated,Heritage,Horror,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_African-Americans,0
+21,Male,Heterosexual,African-Americans,10,10,Swimming,Uneducated,Ranches,Horror,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_Asian,0
+24,Male,Heterosexual,African-Americans,5,150,Swimming,Graduate,Ranches,action,Vegan,Alcholic,Partner_Heterosexual,Partner_Asian,0
+25,Male,Heterosexual,Non-hispanic whites,5,15,Cycling,Graduate,Beaches,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+22,Male,Heterosexual,African-Americans,10,10,Swimming,Under Graduate,Beaches,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_African-Americans,1
+24,Female,Heterosexual,Hispanic and Latino,5,10,Cycling,Post Graduate,Beaches,Satire,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Hispanic and Latino,1
+25,Male,Heterosexual,Non-hispanic whites,10,10,Cooking,High School,Ranches,Science Fiction,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_Asian,1
+25,Female,Heterosexual,African-Americans,20,10,Swimming,Uneducated,Ranches,Romance,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_African-Americans,0
+24,Male,Heterosexual,African-Americans,5,20,Swimming,High School,Beaches,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_African-Americans,1
+24,Male,Heterosexual,African-Americans,5,200,Swimming,Graduate,Ranches,Romance,Vegan,Alcholic,Partner_Heterosexual,Partner_Asian,0
+25,Female,Heterosexual,Non-hispanic whites,5,5,Swimming,High School,Mountains,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+21,Male,Heterosexual,Non-hispanic whites,10,10,Cooking,High School,Beaches,Science Fiction,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_African-Americans,1
+19,Female,Heterosexual,Non-hispanic whites,5,15,Cycling,Graduate,Mountains,Satire,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Hispanic and Latino,1
+21,Male,Heterosexual,Non-hispanic whites,10,10,Swimming,Graduate,Beaches,Romance,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_Asian,1
+22,Female,Heterosexual,Non-hispanic whites,5,5,Swimming,Graduate,Beaches,Romance,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+24,Male,Heterosexual,African-Americans,5,200,Swimming,Graduate,Ranches,Romance,Vegan,Alcholic,Partner_Heterosexual,Partner_Asian,0
+27,Male,Heterosexual,Hispanic and Latino,10,10,Cycling,Post Graduate,Mountains,Romance,Vegan,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+23,Transgender,Heterosexual,Asian,5,15,Cooking,Post Graduate,Beaches,action,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+24,Male,Heterosexual,African-Americans,10,10,Swimming,Post Graduate,Beaches,action,Vegan,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+28,Female,Heterosexual,Asian,5,5,Gardening,Graduate,Adventure,action,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+34,Male,Heterosexual,African-Americans,5,10,Gardening,Post Graduate,Heritage,Satire,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+24,Male,Heterosexual,African-Americans,5,200,Swimming,Graduate,Ranches,Romance,Vegan,Alcholic,Partner_Heterosexual,Partner_Asian,0
+22,Transgender,Heterosexual,Non-hispanic whites,5,15,Swimming,Graduate,Adventure,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+32,Male,Heterosexual,Non-hispanic whites,5,20,Cooking,Uneducated,Beaches,Horror,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,0
+22,Male,Heterosexual,Non-hispanic whites,5,5,Gardening,Graduate,Beaches,Satire,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_African-Americans,1
+21,Female,Heterosexual,Non-hispanic whites,10,10,Swimming,Post Graduate,Mountains,Science Fiction,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_Asian,1
+19,Male,Heterosexual,Non-hispanic whites,5,15,Swimming,Graduate,Mountains,action,Non-vegetarian,Alcholic,Partner_Heterosexual,Native American,1
+18,Male,Heterosexual,Non-hispanic whites,10,10,Athletics,Post Graduate,Beaches,Romance,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Native Alakan,1
+17,Male,Heterosexual,Non-hispanic whites,5,15,Athletics,Uneducated,Adventure,Horror,Vegan,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,0
+22,Male,Heterosexual,Non-hispanic whites,5,10,Athletics,Graduate,Heritage,Romance,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_Hispanic and Latino,1
+23,Female,Heterosexual,Non-hispanic whites,5,5,Swimming,High School,Beaches,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Native American,1
+24,Female,Heterosexual,African-Americans,5,200,Swimming,Graduate,Ranches,Romance,Vegan,Alcholic,Partner_Heterosexual,Partner_Asian,0
+22,Female,Heterosexual,Non-hispanic whites,5,150,Swimming,Post Graduate,Beaches,Romance,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_Hispanic and Latino,0
+24,Male,Heterosexual,Non-hispanic whites,5,5,fishing,Graduate,Ranches,Romance,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+23,Male,Heterosexual,Non-hispanic whites,5,10,Athletics,High School,Beaches,action,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+21,Donot Disclose,Heterosexual,African-Americans,5,5,Cycling,High School,Mountains,Science Fiction,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+22,Male,Heterosexual,Non-hispanic whites,5,10,Cycling,High School,Ranches,Satire,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Hispanic and Latino,1
+24,Male,Heterosexual,Asian,5,150,Swimming,High School,Beaches,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Hispanic and Latino,1
+26,Male,Heterosexual,Native Americans,10,10,Cycling,Graduate,Beaches,action,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+35,Female,Heterosexual,Asian,5,150,Cooking,Under Graduate,Mountains,action,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_Non-hispanic whites,0
+24,Male,Heterosexual,Non-hispanic whites,5,200,Reading,Under Graduate,Beaches,Satire,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Hispanic and Latino,0
+26,Female,Heterosexual,Native Americans,15,200,Reading,Under Graduate,Mountains,action,Vegan,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,0
+34,Female,Heterosexual,African-Americans,5,10,Gardening,Post Graduate,Heritage,Satire,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+24,Male,Heterosexual,African-Americans,5,200,Swimming,Graduate,Ranches,Romance,Vegan,Alcholic,Partner_Heterosexual,Partner_Asian,0
+22,Donot Disclose,Heterosexual,Non-hispanic whites,5,15,Swimming,Graduate,Adventure,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+32,Male,Heterosexual,Non-hispanic whites,5,20,Cooking,Uneducated,Beaches,Horror,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,0
+22,Male,Heterosexual,Non-hispanic whites,5,200,Gardening,Graduate,Beaches,Satire,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_African-Americans,0
+21,Male,Heterosexual,Non-hispanic whites,10,10,Swimming,Post Graduate,Mountains,Science Fiction,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_Asian,1
+19,Female,Heterosexual,Non-hispanic whites,5,15,Swimming,Graduate,Mountains,action,Non-vegetarian,Alcholic,Partner_Heterosexual,Native American,1
+18,Female,Heterosexual,Non-hispanic whites,10,150,Athletics,Post Graduate,Beaches,Romance,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Native Alakan,0
+17,Female,Heterosexual,Non-hispanic whites,5,15,Athletics,Uneducated,Adventure,Horror,Vegan,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,0
+22,Male,Heterosexual,Non-hispanic whites,5,10,Athletics,Graduate,Heritage,Romance,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_Hispanic and Latino,1
+23,Male,Heterosexual,Non-hispanic whites,5,5,Swimming,High School,Beaches,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Native American,1
+24,Male,Heterosexual,African-Americans,5,200,Swimming,Graduate,Ranches,Romance,Vegan,Alcholic,Partner_Heterosexual,Partner_Asian,0
+22,Female,Heterosexual,Non-hispanic whites,5,150,Swimming,Post Graduate,Beaches,Romance,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_Hispanic and Latino,0
+24,Transgender,Heterosexual,Non-hispanic whites,5,5,fishing,Graduate,Ranches,Romance,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+23,Male,Heterosexual,Non-hispanic whites,5,10,Athletics,High School,Beaches,action,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+21,Female,Heterosexual,African-Americans,5,200,Cycling,High School,Mountains,Science Fiction,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+22,Transgender,Heterosexual,Non-hispanic whites,5,10,Cycling,High School,Ranches,Satire,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Hispanic and Latino,1
+24,Male,Heterosexual,Asian,5,150,Swimming,High School,Beaches,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Hispanic and Latino,1
+26,Male,Heterosexual,Native Americans,10,10,Cycling,Graduate,Beaches,action,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+35,Male,Heterosexual,Asian,5,150,Cooking,Under Graduate,Mountains,action,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_Non-hispanic whites,0
+24,Male,Heterosexual,Non-hispanic whites,5,200,Reading,Under Graduate,Beaches,Satire,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Hispanic and Latino,0
+26,Female,Heterosexual,Native Americans,15,200,Reading,Under Graduate,Mountains,action,Vegan,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,0
+24,Male,Bisexual,Hispanic and Latino,5,10,Cycling,Post Graduate,Beaches,Satire,Non-vegetarian,Alcholic,Partner_Bisexual,Partner_Hispanic and Latino,1
+25,Female,Heterosexual,Non-hispanic whites,10,10,Cooking,High School,Ranches,Science Fiction,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_Asian,1
+25,Male,Heterosexual,African-Americans,20,10,Swimming,Uneducated,Ranches,Romance,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_African-Americans,0
+24,Male,Heterosexual,African-Americans,5,20,Swimming,High School,Beaches,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_African-Americans,1
+24,Female,Heterosexual,African-Americans,5,200,Swimming,Graduate,Ranches,Romance,Vegan,Alcholic,Partner_Heterosexual,Partner_Asian,0
+25,Male,Heterosexual,Non-hispanic whites,5,5,Swimming,High School,Mountains,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+21,Female,Heterosexual,Non-hispanic whites,10,10,Cooking,High School,Beaches,Science Fiction,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_African-Americans,1
+19,Male,Bisexual,Non-hispanic whites,5,15,Cycling,Graduate,Mountains,Satire,Non-vegetarian,Alcholic,Partner_Bisexual,Partner_Hispanic and Latino,1
+21,Female,Heterosexual,Non-hispanic whites,10,10,Swimming,Graduate,Beaches,Romance,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_Asian,1
+22,Male,Heterosexual,Non-hispanic whites,5,5,Swimming,Graduate,Beaches,Romance,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+24,Male,Homosexual,African-Americans,5,200,Swimming,Uneducated,Ranches,Romance,Vegan,Alcholic,Partner_Homosexual,Partner_Asian,0
+27,Transgender,Heterosexual,Hispanic and Latino,10,10,Cycling,Post Graduate,Mountains,Romance,Vegan,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+23,Male,Asexual,Asian,5,15,Cooking,Post Graduate,Beaches,action,Non-vegetarian,Non Alcoholic,Asexual,Partner_Non-hispanic whites,1
+24,Female,Heterosexual,African-Americans,10,10,Swimming,Post Graduate,Beaches,action,Vegan,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+28,Male,Heterosexual,Asian,5,5,Gardening,Graduate,Adventure,action,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+34,Male,Homosexual,African-Americans,5,10,Gardening,Uneducated,Heritage,Satire,Vegan,Non Alcoholic,Partner_Homosexual,Partner_Non-hispanic whites,0
+24,Transgender,Heterosexual,African-Americans,5,200,Swimming,Graduate,Ranches,Romance,Vegan,Alcholic,Partner_Heterosexual,Partner_Asian,0
+22,Male,Heterosexual,Non-hispanic whites,5,15,Swimming,Graduate,Adventure,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+32,Male,Heterosexual,Non-hispanic whites,5,20,Cooking,Uneducated,Beaches,Horror,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,0
+22,Female,Heterosexual,Non-hispanic whites,5,5,Gardening,Graduate,Beaches,Satire,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_African-Americans,1
+21,Male,Heterosexual,Non-hispanic whites,10,10,Swimming,Post Graduate,Mountains,Science Fiction,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_Asian,1
+19,Male,Homosexual,Non-hispanic whites,5,15,Swimming,Uneducated,Mountains,action,Non-vegetarian,Alcholic,Partner_Homosexual,Native American,0
+18,Male,Heterosexual,Non-hispanic whites,10,10,Athletics,Post Graduate,Beaches,Romance,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Native Alakan,1
+17,Male,Heterosexual,Non-hispanic whites,5,15,Athletics,Uneducated,Adventure,Horror,Vegan,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,0
+22,Female,Heterosexual,Non-hispanic whites,5,10,Athletics,Graduate,Heritage,Romance,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_Hispanic and Latino,1
+23,Female,Heterosexual,Non-hispanic whites,5,5,Swimming,High School,Beaches,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Native American,1
+24,Female,Heterosexual,African-Americans,5,200,Swimming,Graduate,Ranches,Romance,Vegan,Alcholic,Partner_Heterosexual,Partner_Asian,0
+23,Male,Asexual,Non-hispanic whites,5,5,Cycling,Graduate,Mountains,Romance,Non-vegetarian,Alcholic,Asexual,Partner_Non-hispanic whites,1
+24,Male,Heterosexual,Non-hispanic whites,5,5,Swimming,Graduate,Beaches,Crime,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,0
+21,Donot Disclose,Heterosexual,African-Americans,5,5,Athletics,Graduate,Beaches,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_African-Americans,1
+22,Male,Heterosexual,African-Americans,5,5,Athletics,Graduate,Beaches,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_African-Americans,1
+18,Male,Homosexual,African-Americans,5,15,Cycling,Post Graduate,Heritage,Romance,Non-vegetarian,Alcholic,Partner_Homosexual,Partner_African-Americans,1
+22,Male,Heterosexual,Non-hispanic whites,5,10,Reading,Graduate,Heritage,Romance,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_African-Americans,1
+19,Female,Heterosexual,Hispanic and Latino,5,10,Swimming,High School,Adventure,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_African-Americans,1
+34,Male,Heterosexual,Hispanic and Latino,5,10,Athletics,High School,Adventure,Horror,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_Hispanic and Latino,0
+32,Female,Asexual,Asian,5,15,Swimming,High School,Beaches,Romance,Non-vegetarian,Alcholic,Asexual,Partner_Asian,1
+28,Female,Heterosexual,Asian,5,15,Swimming,Graduate,Mountains,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Asian,1
+25,Male,Homosexual,Asian,5,10,Reading,Under Graduate,Beaches,Science Fiction,Non-vegetarian,Alcholic,Partner_Homosexual,Partner_Asian,1
+18,Donot Disclose,Heterosexual,Asian,5,15,Cycling,Graduate,Beaches,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Asian,1
+19,Male,Heterosexual,Asian,5,100,Cycling,Under Graduate,Beaches,action,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Asian,0
+22,Male,Asexual,African-Americans,5,15,Swimming,High School,Beaches,Romance,Non-vegetarian,Alcholic,Asexual,Partner_Asian,1
+18,Male,Heterosexual,Non-hispanic whites,10,10,Reading,Graduate,Mountains,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Asian,1
+22,Female,Heterosexual,Hispanic and Latino,5,25,Cycling,Under Graduate,Beaches,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Asian,1
+21,Female,Heterosexual,Asian,5,10,Swimming,Graduate,Mountains,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Asian,1
+22,Female,Heterosexual,Non-hispanic whites,5,10,Cycling,Graduate,Beaches,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+23,Male,Heterosexual,Hispanic and Latino,5,5,Swimming,Under Graduate,Ranches,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Hispanic and Latino,1
+24,Male,Heterosexual,Asian,5,5,Cycling,High School,Mountains,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Asian,1
+25,Male,Heterosexual,Non-hispanic whites,5,10,Swimming,High School,Beaches,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+22,Female,Heterosexual,Non-hispanic whites,5,15,Swimming,Uneducated,Beaches,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,0
+23,Transgender,Heterosexual,Non-hispanic whites,5,15,Swimming,Uneducated,Mountains,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,0
+22,Male,Heterosexual,Asian,5,15,Cycling,Uneducated,Mountains,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Asian,0
+25,Female,Heterosexual,Non-hispanic whites,20,10,Cycling,Graduate,Mountains,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+19,Transgender,Heterosexual,Non-hispanic whites,5,15,Swimming,High School,Beaches,Science Fiction,Vegan,Alcholic,Partner_Heterosexual,Partner_African-Americans,1
+20,Male,Heterosexual,African-Americans,5,25,Reading,High School,Mountains,action,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Hispanic and Latino,1
+21,Male,Heterosexual,Hispanic and Latino,5,10,Cooking,High School,Beaches,Satire,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_Asian,0
+22,Male,Heterosexual,Asian,20,15,Cooking,Uneducated,Heritage,Horror,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Asian,0
+21,Male,Heterosexual,Non-hispanic whites,5,25,Swimming,High School,Heritage,Romance,Vegan,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+22,Female,Heterosexual,Non-hispanic whites,10,20,Cooking,Graduate,Mountains,action,Vegan,Alcholic,Partner_Heterosexual,Partner_African-Americans,1
+23,Male,Heterosexual,African-Americans,5,10,Swimming,High School,Beaches,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Hispanic and Latino,1
+21,Female,Heterosexual,Hispanic and Latino,10,15,Cycling,High School,Beaches,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Asian,1
+24,Male,Heterosexual,Asian,20,15,Cooking,Uneducated,Mountains,Horror,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Asian,0
+27,Male,Heterosexual,Non-hispanic whites,5,25,Reading,Graduate,Mountains,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Asian,1
+28,Female,Heterosexual,African-Americans,5,10,Cycling,Under Graduate,Beaches,Satire,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_Hispanic and Latino,1
+24,Male,Heterosexual,Hispanic and Latino,10,15,Swimming,Graduate,Mountains,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_African-Americans,1
+25,Female,Heterosexual,Asian,5,10,Cycling,High School,Beaches,action,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+25,Male,Heterosexual,African-Americans,10,10,Swimming,Uneducated,Ranches,Horror,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,0
+18,Female,Heterosexual,Asian,10,15,Cycling,Uneducated,Heritage,Horror,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_African-Americans,0
+21,Male,Heterosexual,African-Americans,10,10,Swimming,Uneducated,Ranches,Horror,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_Asian,0
+24,Male,Heterosexual,African-Americans,5,150,Swimming,Graduate,Ranches,action,Vegan,Alcholic,Partner_Heterosexual,Partner_Asian,0
+25,Transgender,Heterosexual,Non-hispanic whites,5,15,Cycling,Graduate,Beaches,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+22,Male,Heterosexual,African-Americans,10,10,Swimming,Under Graduate,Beaches,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_African-Americans,1
+24,Female,Heterosexual,Hispanic and Latino,5,10,Cycling,Post Graduate,Beaches,Satire,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Hispanic and Latino,1
+25,Male,Heterosexual,Non-hispanic whites,10,10,Cooking,High School,Ranches,Science Fiction,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_Asian,1
+25,Male,Heterosexual,African-Americans,20,10,Swimming,Uneducated,Ranches,Romance,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_African-Americans,0
+24,Transgender,Heterosexual,African-Americans,5,20,Swimming,High School,Beaches,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_African-Americans,1
+24,Male,Heterosexual,African-Americans,5,200,Swimming,Graduate,Ranches,Romance,Vegan,Alcholic,Partner_Heterosexual,Partner_Asian,0
+25,Male,Heterosexual,Non-hispanic whites,5,5,Swimming,High School,Mountains,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+21,Female,Heterosexual,Non-hispanic whites,10,10,Cooking,High School,Beaches,Science Fiction,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_African-Americans,1
+19,Male,Heterosexual,Non-hispanic whites,5,15,Cycling,Graduate,Mountains,Satire,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Hispanic and Latino,1
+21,Male,Heterosexual,Non-hispanic whites,10,10,Swimming,Graduate,Beaches,Romance,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_Asian,1
+22,Male,Heterosexual,Non-hispanic whites,5,5,Swimming,Graduate,Beaches,Romance,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+24,Male,Heterosexual,African-Americans,5,200,Swimming,Graduate,Ranches,Romance,Vegan,Alcholic,Partner_Heterosexual,Partner_Asian,0
+27,Female,Heterosexual,Hispanic and Latino,10,10,Cycling,Post Graduate,Mountains,Romance,Vegan,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+23,Female,Heterosexual,Asian,5,15,Cooking,Post Graduate,Beaches,action,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+24,Female,Heterosexual,African-Americans,10,10,Swimming,Post Graduate,Beaches,action,Vegan,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+28,Male,Heterosexual,Asian,5,5,Gardening,Graduate,Adventure,action,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+34,Male,Heterosexual,African-Americans,5,10,Gardening,Post Graduate,Heritage,Satire,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+24,Donot Disclose,Heterosexual,African-Americans,5,200,Swimming,Graduate,Ranches,Romance,Vegan,Alcholic,Partner_Heterosexual,Partner_Asian,0
+22,Male,Heterosexual,Non-hispanic whites,5,15,Swimming,Graduate,Adventure,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+32,Male,Heterosexual,Non-hispanic whites,5,20,Cooking,Uneducated,Beaches,Horror,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,0
+22,Male,Homosexual,Non-hispanic whites,5,5,Gardening,Graduate,Beaches,Satire,Non-vegetarian,Alcholic,Partner_Homosexual,Partner_African-Americans,1
+21,Female,Heterosexual,Non-hispanic whites,10,10,Swimming,Post Graduate,Mountains,Science Fiction,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_Asian,1
+19,Male,Heterosexual,Non-hispanic whites,5,15,Swimming,Graduate,Mountains,action,Non-vegetarian,Alcholic,Partner_Heterosexual,Native American,1
+18,Female,Heterosexual,Non-hispanic whites,10,10,Athletics,Post Graduate,Beaches,Romance,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Native Alakan,1
+17,Female,Heterosexual,Non-hispanic whites,5,15,Athletics,Uneducated,Adventure,Horror,Vegan,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,0
+22,Male,Heterosexual,Non-hispanic whites,5,10,Athletics,Graduate,Heritage,Romance,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_Hispanic and Latino,1
+23,Donot Disclose,Heterosexual,Non-hispanic whites,5,5,Swimming,High School,Beaches,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Native American,1
+24,Male,Heterosexual,African-Americans,5,200,Swimming,Graduate,Ranches,Romance,Vegan,Alcholic,Partner_Heterosexual,Partner_Asian,0
+22,Male,Heterosexual,Non-hispanic whites,5,150,Swimming,Post Graduate,Beaches,Romance,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_Hispanic and Latino,0
+24,Male,Heterosexual,Non-hispanic whites,5,5,fishing,Graduate,Ranches,Romance,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+23,Female,Heterosexual,Non-hispanic whites,5,10,Athletics,High School,Beaches,action,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+21,Female,Heterosexual,African-Americans,5,5,Cycling,High School,Mountains,Science Fiction,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+22,Female,Heterosexual,Non-hispanic whites,5,10,Cycling,High School,Ranches,Satire,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Hispanic and Latino,1
+24,Male,Heterosexual,Asian,5,150,Swimming,High School,Beaches,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Hispanic and Latino,1
+26,Male,Heterosexual,Native Americans,10,10,Cycling,Graduate,Beaches,action,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+35,Male,Heterosexual,Asian,5,150,Cooking,Under Graduate,Mountains,action,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_Non-hispanic whites,0
+24,Female,Heterosexual,Non-hispanic whites,5,200,Reading,Under Graduate,Beaches,Satire,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Hispanic and Latino,0
+26,Transgender,Heterosexual,Native Americans,15,200,Reading,Under Graduate,Mountains,action,Vegan,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,0
+34,Male,Heterosexual,African-Americans,5,10,Gardening,Post Graduate,Heritage,Satire,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+24,Female,Heterosexual,African-Americans,5,200,Swimming,Graduate,Ranches,Romance,Vegan,Alcholic,Partner_Heterosexual,Partner_Asian,0
+22,Male,Heterosexual,Non-hispanic whites,5,15,Swimming,Graduate,Adventure,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+32,Male,Heterosexual,Non-hispanic whites,5,20,Cooking,Uneducated,Beaches,Horror,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,0
+22,Male,Heterosexual,Non-hispanic whites,5,200,Gardening,Graduate,Beaches,Satire,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_African-Americans,0
+21,Male,Heterosexual,Non-hispanic whites,10,10,Swimming,Post Graduate,Mountains,Science Fiction,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_Asian,1
+19,Female,Heterosexual,Non-hispanic whites,5,15,Swimming,Graduate,Mountains,action,Non-vegetarian,Alcholic,Partner_Heterosexual,Native American,1
+18,Female,Heterosexual,Non-hispanic whites,10,150,Athletics,Post Graduate,Beaches,Romance,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Native Alakan,0
+17,Female,Heterosexual,Non-hispanic whites,5,15,Athletics,Uneducated,Adventure,Horror,Vegan,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,0
+22,Male,Heterosexual,Non-hispanic whites,5,10,Athletics,Graduate,Heritage,Romance,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_Hispanic and Latino,1
+23,Male,Heterosexual,Non-hispanic whites,5,5,Swimming,High School,Beaches,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Native American,1
+24,Male,Heterosexual,African-Americans,5,200,Swimming,Graduate,Ranches,Romance,Vegan,Alcholic,Partner_Heterosexual,Partner_Asian,0
+22,Female,Heterosexual,Non-hispanic whites,5,150,Swimming,Post Graduate,Beaches,Romance,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_Hispanic and Latino,0
+24,Male,Heterosexual,Non-hispanic whites,5,5,fishing,Graduate,Ranches,Romance,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+23,Female,Heterosexual,Non-hispanic whites,5,10,Athletics,High School,Beaches,action,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+21,Male,Heterosexual,African-Americans,5,200,Cycling,High School,Mountains,Science Fiction,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_Non-hispanic whites,0
+22,Male,Heterosexual,Non-hispanic whites,5,10,Cycling,High School,Ranches,Satire,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Hispanic and Latino,1
+24,Female,Heterosexual,Asian,5,150,Swimming,High School,Beaches,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Hispanic and Latino,1
+26,Male,Heterosexual,Native Americans,10,10,Cycling,Graduate,Beaches,action,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+35,Female,Heterosexual,Asian,5,150,Cooking,Under Graduate,Mountains,action,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_Non-hispanic whites,0
+24,Male,Heterosexual,Non-hispanic whites,5,200,Reading,Under Graduate,Beaches,Satire,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Hispanic and Latino,0
+26,Female,Heterosexual,Native Americans,15,200,Reading,Under Graduate,Mountains,action,Vegan,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,0
+24,Male,Bisexual,Hispanic and Latino,5,10,Cycling,Post Graduate,Beaches,Satire,Non-vegetarian,Alcholic,Partner_Bisexual,Partner_Hispanic and Latino,1
+25,Male,Heterosexual,Non-hispanic whites,10,10,Cooking,High School,Ranches,Science Fiction,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_Asian,1
+25,Male,Heterosexual,African-Americans,20,10,Swimming,Uneducated,Ranches,Romance,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_African-Americans,0
+24,Male,Heterosexual,African-Americans,5,20,Swimming,High School,Beaches,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_African-Americans,1
+24,Female,Heterosexual,African-Americans,5,200,Swimming,Graduate,Ranches,Romance,Vegan,Alcholic,Partner_Heterosexual,Partner_Asian,0
+25,Male,Heterosexual,Non-hispanic whites,5,5,Swimming,High School,Mountains,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+21,Female,Heterosexual,Non-hispanic whites,10,10,Cooking,High School,Beaches,Science Fiction,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_African-Americans,1
+19,Male,Bisexual,Non-hispanic whites,5,15,Cycling,Graduate,Mountains,Satire,Non-vegetarian,Alcholic,Partner_Bisexual,Partner_Hispanic and Latino,1
+21,Male,Heterosexual,Non-hispanic whites,10,10,Swimming,Graduate,Beaches,Romance,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_Asian,1
+22,Female,Heterosexual,Non-hispanic whites,5,5,Swimming,Graduate,Beaches,Romance,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+24,Male,Homosexual,African-Americans,5,200,Swimming,Uneducated,Ranches,Romance,Vegan,Alcholic,Partner_Homosexual,Partner_Asian,0
+27,Female,Heterosexual,Hispanic and Latino,10,10,Cycling,Post Graduate,Mountains,Romance,Vegan,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+23,Male,Asexual,Asian,5,15,Cooking,Post Graduate,Beaches,action,Non-vegetarian,Non Alcoholic,Asexual,Partner_Non-hispanic whites,1
+24,Female,Heterosexual,African-Americans,10,10,Swimming,Post Graduate,Beaches,action,Vegan,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+28,Male,Heterosexual,Asian,5,5,Gardening,Graduate,Adventure,action,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+34,Male,Homosexual,African-Americans,5,10,Gardening,Uneducated,Heritage,Satire,Vegan,Non Alcoholic,Partner_Homosexual,Partner_Non-hispanic whites,0
+24,Male,Heterosexual,African-Americans,5,200,Swimming,Graduate,Ranches,Romance,Vegan,Alcholic,Partner_Heterosexual,Partner_Asian,0
+22,Male,Heterosexual,Non-hispanic whites,5,15,Swimming,Graduate,Adventure,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+32,Female,Heterosexual,Non-hispanic whites,5,20,Cooking,Uneducated,Beaches,Horror,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,0
+22,Male,Heterosexual,Non-hispanic whites,5,5,Gardening,Graduate,Beaches,Satire,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_African-Americans,1
+21,Female,Heterosexual,Non-hispanic whites,10,10,Swimming,Post Graduate,Mountains,Science Fiction,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_Asian,1
+19,Male,Homosexual,Non-hispanic whites,5,15,Swimming,Uneducated,Mountains,action,Non-vegetarian,Alcholic,Partner_Homosexual,Native American,0
+18,Male,Heterosexual,Non-hispanic whites,10,10,Athletics,Post Graduate,Beaches,Romance,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Native Alakan,1
+17,Female,Heterosexual,Non-hispanic whites,5,15,Athletics,Uneducated,Adventure,Horror,Vegan,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,0
+22,Male,Heterosexual,Non-hispanic whites,5,10,Athletics,Graduate,Heritage,Romance,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_Hispanic and Latino,1
+23,Female,Heterosexual,Non-hispanic whites,5,5,Swimming,High School,Beaches,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Native American,1
+24,Male,Heterosexual,African-Americans,5,200,Swimming,Graduate,Ranches,Romance,Vegan,Alcholic,Partner_Heterosexual,Partner_Asian,0
+18,Male,Heterosexual,Non-hispanic whites,5,5,Cycling,High School,Beaches,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+19,Male,Heterosexual,Non-hispanic whites,5,10,Gardening,High School,Beaches,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+20,Male,Heterosexual,Non-hispanic whites,10,15,fishing,Under Graduate,Mountains,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+18,Female,Heterosexual,Non-hispanic whites,5,5,Cycling,Post Graduate,Ranches,Romance,Vegan,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+18,Male,Heterosexual,Non-hispanic whites,5,15,Swimming,Graduate,Adventure,Horror,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+22,Female,Heterosexual,Non-hispanic whites,5,15,Swimming,Under Graduate,Beaches,Romance,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+24,Male,Heterosexual,Hispanic and Latino,5,15,Reading,Under Graduate,Heritage,Romance,Vegan,Alcholic,Partner_Heterosexual,Partner_Hispanic and Latino,1
+25,Male,Heterosexual,Hispanic and Latino,5,15,Cycling,Uneducated,Beaches,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Hispanic and Latino,0
+28,Female,Heterosexual,Non-hispanic whites,5,10,Reading,Uneducated,Beaches,Horror,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_Hispanic and Latino,0
+22,Male,Heterosexual,Hispanic and Latino,5,10,Reading,Uneducated,Heritage,Horror,Vegan,Alcholic,Partner_Heterosexual,Partner_Hispanic and Latino,0
+24,Female,Heterosexual,Hispanic and Latino,10,5,Cooking,High School,Beaches,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Hispanic and Latino,1
+21,Male,Heterosexual,Non-hispanic whites,5,5,Reading,High School,Ranches,Horror,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_Non-hispanic whites,0
+21,Female,Heterosexual,Hispanic and Latino,5,10,Reading,High School,Beaches,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Hispanic and Latino,1
+22,Male,Heterosexual,Hispanic and Latino,5,5,cooking,Graduate,Mountains,Science Fiction,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_Hispanic and Latino,1
+23,Male,Heterosexual,Non-hispanic whites,5,5,Cycling,Graduate,Mountains,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+24,Transgender,Heterosexual,Non-hispanic whites,5,5,Swimming,Graduate,Beaches,Crime,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,0
+21,Male,Heterosexual,African-Americans,5,5,Athletics,Graduate,Beaches,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_African-Americans,1
+22,Female,Heterosexual,African-Americans,5,5,Athletics,Graduate,Beaches,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_African-Americans,1
+18,Male,Heterosexual,African-Americans,5,15,Cycling,Post Graduate,Heritage,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_African-Americans,1
+22,Male,Heterosexual,Non-hispanic whites,5,10,Reading,Graduate,Heritage,Romance,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_African-Americans,1
+19,Transgender,Heterosexual,Hispanic and Latino,5,10,Swimming,High School,Adventure,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_African-Americans,1
+34,Male,Heterosexual,Hispanic and Latino,5,10,Athletics,High School,Adventure,Horror,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_Hispanic and Latino,0
+32,Male,Heterosexual,Asian,5,15,Swimming,High School,Beaches,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Asian,1
+28,Female,Heterosexual,Asian,5,15,Swimming,Graduate,Mountains,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Asian,1
+25,Male,Heterosexual,Asian,5,10,Reading,Under Graduate,Beaches,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Asian,1
+18,Male,Heterosexual,Asian,5,15,Cycling,Graduate,Beaches,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Asian,1
+19,Male,Heterosexual,Asian,5,100,Cycling,Under Graduate,Beaches,action,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Asian,0
+22,Male,Heterosexual,African-Americans,5,15,Swimming,High School,Beaches,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Asian,1
+18,Female,Heterosexual,Non-hispanic whites,10,10,Reading,Graduate,Mountains,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Asian,1
+22,Female,Heterosexual,Hispanic and Latino,5,25,Cycling,Under Graduate,Beaches,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Asian,1
+21,Female,Heterosexual,Asian,5,10,Swimming,Graduate,Mountains,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Asian,1
+22,Male,Heterosexual,Non-hispanic whites,5,10,Cycling,Graduate,Beaches,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+23,Male,Heterosexual,Hispanic and Latino,5,5,Swimming,Under Graduate,Ranches,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Hispanic and Latino,1
+24,Donot Disclose,Heterosexual,Asian,5,5,Cycling,High School,Mountains,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Asian,1
+25,Male,Heterosexual,Non-hispanic whites,5,10,Swimming,High School,Beaches,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+22,Male,Heterosexual,Non-hispanic whites,5,15,Swimming,Uneducated,Beaches,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,0
+23,Male,Heterosexual,Non-hispanic whites,5,15,Swimming,Uneducated,Mountains,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,0
+22,Female,Heterosexual,Asian,5,15,Cycling,Uneducated,Mountains,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Asian,0
+25,Male,Heterosexual,Non-hispanic whites,20,10,Cycling,Graduate,Mountains,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+19,Female,Heterosexual,Non-hispanic whites,5,15,Swimming,High School,Beaches,Science Fiction,Vegan,Alcholic,Partner_Heterosexual,Partner_African-Americans,1
+20,Female,Heterosexual,African-Americans,5,25,Reading,High School,Mountains,action,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Hispanic and Latino,1
+21,Male,Heterosexual,Hispanic and Latino,5,10,Cooking,High School,Beaches,Satire,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_Asian,0
+22,Donot Disclose,Heterosexual,Asian,20,15,Cooking,Uneducated,Heritage,Horror,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Asian,0
+21,Male,Heterosexual,Non-hispanic whites,5,25,Swimming,High School,Heritage,Romance,Vegan,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+22,Male,Heterosexual,Non-hispanic whites,10,20,Cooking,Graduate,Mountains,action,Vegan,Alcholic,Partner_Heterosexual,Partner_African-Americans,1
+23,Male,Heterosexual,African-Americans,5,10,Swimming,High School,Beaches,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Hispanic and Latino,1
+21,Female,Heterosexual,Hispanic and Latino,10,15,Cycling,High School,Beaches,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Asian,1
+24,Female,Heterosexual,Asian,20,15,Cooking,Uneducated,Mountains,Horror,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Asian,0
+27,Female,Heterosexual,Non-hispanic whites,5,25,Reading,Graduate,Mountains,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Asian,1
+28,Male,Heterosexual,African-Americans,5,10,Cycling,Under Graduate,Beaches,Satire,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_Hispanic and Latino,1
+24,Male,Heterosexual,Hispanic and Latino,10,15,Swimming,Graduate,Mountains,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_African-Americans,1
+25,Male,Heterosexual,Asian,5,10,Cycling,High School,Beaches,action,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+25,Female,Heterosexual,African-Americans,10,10,Swimming,Uneducated,Ranches,Horror,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,0
+18,Transgender,Heterosexual,Asian,10,15,Cycling,Uneducated,Heritage,Horror,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_African-Americans,0
+21,Male,Heterosexual,African-Americans,10,10,Swimming,Uneducated,Ranches,Horror,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_Asian,0
+24,Male,Heterosexual,African-Americans,5,150,Swimming,Graduate,Ranches,action,Vegan,Alcholic,Partner_Heterosexual,Partner_Asian,0
+25,Male,Heterosexual,Non-hispanic whites,5,15,Cycling,Graduate,Beaches,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+22,Male,Heterosexual,African-Americans,10,10,Swimming,Under Graduate,Beaches,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_African-Americans,1
+24,Female,Heterosexual,Hispanic and Latino,5,10,Cycling,Post Graduate,Beaches,Satire,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Hispanic and Latino,1
+25,Male,Heterosexual,Non-hispanic whites,10,10,Cooking,High School,Ranches,Science Fiction,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_Asian,1
+25,Female,Heterosexual,African-Americans,20,10,Swimming,Uneducated,Ranches,Romance,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_African-Americans,0
+24,Male,Heterosexual,African-Americans,5,20,Swimming,High School,Beaches,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_African-Americans,1
+24,Male,Heterosexual,African-Americans,5,200,Swimming,Graduate,Ranches,Romance,Vegan,Alcholic,Partner_Heterosexual,Partner_Asian,0
+25,Female,Heterosexual,Non-hispanic whites,5,5,Swimming,High School,Mountains,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+21,Male,Heterosexual,Non-hispanic whites,10,10,Cooking,High School,Beaches,Science Fiction,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_African-Americans,1
+19,Female,Heterosexual,Non-hispanic whites,5,15,Cycling,Graduate,Mountains,Satire,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Hispanic and Latino,1
+21,Male,Heterosexual,Non-hispanic whites,10,10,Swimming,Graduate,Beaches,Romance,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_Asian,1
+22,Female,Heterosexual,Non-hispanic whites,5,5,Swimming,Graduate,Beaches,Romance,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+24,Male,Heterosexual,African-Americans,5,200,Swimming,Graduate,Ranches,Romance,Vegan,Alcholic,Partner_Heterosexual,Partner_Asian,0
+27,Male,Heterosexual,Hispanic and Latino,10,10,Cycling,Post Graduate,Mountains,Romance,Vegan,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+23,Transgender,Heterosexual,Asian,5,15,Cooking,Post Graduate,Beaches,action,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+24,Male,Heterosexual,African-Americans,10,10,Swimming,Post Graduate,Beaches,action,Vegan,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+28,Female,Heterosexual,Asian,5,5,Gardening,Graduate,Adventure,action,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+34,Male,Heterosexual,African-Americans,5,10,Gardening,Post Graduate,Heritage,Satire,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+24,Male,Heterosexual,African-Americans,5,200,Swimming,Graduate,Ranches,Romance,Vegan,Alcholic,Partner_Heterosexual,Partner_Asian,0
+22,Transgender,Heterosexual,Non-hispanic whites,5,15,Swimming,Graduate,Adventure,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+32,Male,Heterosexual,Non-hispanic whites,5,20,Cooking,Uneducated,Beaches,Horror,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,0
+22,Male,Heterosexual,Non-hispanic whites,5,5,Gardening,Graduate,Beaches,Satire,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_African-Americans,1
+21,Female,Heterosexual,Non-hispanic whites,10,10,Swimming,Post Graduate,Mountains,Science Fiction,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_Asian,1
+19,Male,Heterosexual,Non-hispanic whites,5,15,Swimming,Graduate,Mountains,action,Non-vegetarian,Alcholic,Partner_Heterosexual,Native American,1
+18,Male,Heterosexual,Non-hispanic whites,10,10,Athletics,Post Graduate,Beaches,Romance,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Native Alakan,1
+17,Male,Heterosexual,Non-hispanic whites,5,15,Athletics,Uneducated,Adventure,Horror,Vegan,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,0
+22,Male,Heterosexual,Non-hispanic whites,5,10,Athletics,Graduate,Heritage,Romance,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_Hispanic and Latino,1
+23,Female,Heterosexual,Non-hispanic whites,5,5,Swimming,High School,Beaches,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Native American,1
+24,Female,Heterosexual,African-Americans,5,200,Swimming,Graduate,Ranches,Romance,Vegan,Alcholic,Partner_Heterosexual,Partner_Asian,0
+22,Female,Heterosexual,Non-hispanic whites,5,150,Swimming,Post Graduate,Beaches,Romance,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_Hispanic and Latino,0
+24,Male,Heterosexual,Non-hispanic whites,5,5,fishing,Graduate,Ranches,Romance,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+23,Male,Heterosexual,Non-hispanic whites,5,10,Athletics,High School,Beaches,action,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+21,Donot Disclose,Heterosexual,African-Americans,5,5,Cycling,High School,Mountains,Science Fiction,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+22,Male,Heterosexual,Non-hispanic whites,5,10,Cycling,High School,Ranches,Satire,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Hispanic and Latino,1
+24,Male,Heterosexual,Asian,5,150,Swimming,High School,Beaches,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Hispanic and Latino,1
+26,Male,Heterosexual,Native Americans,10,10,Cycling,Graduate,Beaches,action,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+35,Female,Heterosexual,Asian,5,150,Cooking,Under Graduate,Mountains,action,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_Non-hispanic whites,0
+24,Male,Heterosexual,Non-hispanic whites,5,200,Reading,Under Graduate,Beaches,Satire,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Hispanic and Latino,0
+26,Female,Heterosexual,Native Americans,15,200,Reading,Under Graduate,Mountains,action,Vegan,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,0
+34,Female,Heterosexual,African-Americans,5,10,Gardening,Post Graduate,Heritage,Satire,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+24,Male,Heterosexual,African-Americans,5,200,Swimming,Graduate,Ranches,Romance,Vegan,Alcholic,Partner_Heterosexual,Partner_Asian,0
+22,Donot Disclose,Heterosexual,Non-hispanic whites,5,15,Swimming,Graduate,Adventure,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+32,Male,Heterosexual,Non-hispanic whites,5,20,Cooking,Uneducated,Beaches,Horror,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,0
+22,Male,Heterosexual,Non-hispanic whites,5,200,Gardening,Graduate,Beaches,Satire,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_African-Americans,0
+21,Male,Heterosexual,Non-hispanic whites,10,10,Swimming,Post Graduate,Mountains,Science Fiction,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_Asian,1
+19,Female,Heterosexual,Non-hispanic whites,5,15,Swimming,Graduate,Mountains,action,Non-vegetarian,Alcholic,Partner_Heterosexual,Native American,1
+18,Female,Heterosexual,Non-hispanic whites,10,150,Athletics,Post Graduate,Beaches,Romance,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Native Alakan,0
+17,Female,Heterosexual,Non-hispanic whites,5,15,Athletics,Uneducated,Adventure,Horror,Vegan,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,0
+22,Male,Heterosexual,Non-hispanic whites,5,10,Athletics,Graduate,Heritage,Romance,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_Hispanic and Latino,1
+23,Male,Heterosexual,Non-hispanic whites,5,5,Swimming,High School,Beaches,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Native American,1
+24,Male,Heterosexual,African-Americans,5,200,Swimming,Graduate,Ranches,Romance,Vegan,Alcholic,Partner_Heterosexual,Partner_Asian,0
+22,Female,Heterosexual,Non-hispanic whites,5,150,Swimming,Post Graduate,Beaches,Romance,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_Hispanic and Latino,0
+24,Transgender,Heterosexual,Non-hispanic whites,5,5,fishing,Graduate,Ranches,Romance,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+23,Male,Heterosexual,Non-hispanic whites,5,10,Athletics,High School,Beaches,action,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+21,Female,Heterosexual,African-Americans,5,200,Cycling,High School,Mountains,Science Fiction,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+22,Transgender,Heterosexual,Non-hispanic whites,5,10,Cycling,High School,Ranches,Satire,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Hispanic and Latino,1
+24,Male,Heterosexual,Asian,5,150,Swimming,High School,Beaches,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Hispanic and Latino,1
+26,Male,Heterosexual,Native Americans,10,10,Cycling,Graduate,Beaches,action,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+35,Male,Heterosexual,Asian,5,150,Cooking,Under Graduate,Mountains,action,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_Non-hispanic whites,0
+24,Male,Heterosexual,Non-hispanic whites,5,200,Reading,Under Graduate,Beaches,Satire,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Hispanic and Latino,0
+26,Female,Heterosexual,Native Americans,15,200,Reading,Under Graduate,Mountains,action,Vegan,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,0
+24,Male,Bisexual,Hispanic and Latino,5,10,Cycling,Post Graduate,Beaches,Satire,Non-vegetarian,Alcholic,Partner_Bisexual,Partner_Hispanic and Latino,1
+25,Female,Heterosexual,Non-hispanic whites,10,10,Cooking,High School,Ranches,Science Fiction,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_Asian,1
+25,Male,Heterosexual,African-Americans,20,10,Swimming,Uneducated,Ranches,Romance,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_African-Americans,0
+24,Male,Heterosexual,African-Americans,5,20,Swimming,High School,Beaches,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_African-Americans,1
+24,Female,Heterosexual,African-Americans,5,200,Swimming,Graduate,Ranches,Romance,Vegan,Alcholic,Partner_Heterosexual,Partner_Asian,0
+25,Male,Heterosexual,Non-hispanic whites,5,5,Swimming,High School,Mountains,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+21,Female,Heterosexual,Non-hispanic whites,10,10,Cooking,High School,Beaches,Science Fiction,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_African-Americans,1
+19,Male,Bisexual,Non-hispanic whites,5,15,Cycling,Graduate,Mountains,Satire,Non-vegetarian,Alcholic,Partner_Bisexual,Partner_Hispanic and Latino,1
+21,Female,Heterosexual,Non-hispanic whites,10,10,Swimming,Graduate,Beaches,Romance,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_Asian,1
+22,Male,Heterosexual,Non-hispanic whites,5,5,Swimming,Graduate,Beaches,Romance,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+24,Male,Homosexual,African-Americans,5,200,Swimming,Uneducated,Ranches,Romance,Vegan,Alcholic,Partner_Homosexual,Partner_Asian,0
+27,Transgender,Heterosexual,Hispanic and Latino,10,10,Cycling,Post Graduate,Mountains,Romance,Vegan,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+23,Male,Asexual,Asian,5,15,Cooking,Post Graduate,Beaches,action,Non-vegetarian,Non Alcoholic,Asexual,Partner_Non-hispanic whites,1
+24,Female,Heterosexual,African-Americans,10,10,Swimming,Post Graduate,Beaches,action,Vegan,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+28,Male,Heterosexual,Asian,5,5,Gardening,Graduate,Adventure,action,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+34,Male,Homosexual,African-Americans,5,10,Gardening,Uneducated,Heritage,Satire,Vegan,Non Alcoholic,Partner_Homosexual,Partner_Non-hispanic whites,0
+24,Transgender,Heterosexual,African-Americans,5,200,Swimming,Graduate,Ranches,Romance,Vegan,Alcholic,Partner_Heterosexual,Partner_Asian,0
+22,Male,Heterosexual,Non-hispanic whites,5,15,Swimming,Graduate,Adventure,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+32,Male,Heterosexual,Non-hispanic whites,5,20,Cooking,Uneducated,Beaches,Horror,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,0
+22,Female,Heterosexual,Non-hispanic whites,5,5,Gardening,Graduate,Beaches,Satire,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_African-Americans,1
+21,Male,Heterosexual,Non-hispanic whites,10,10,Swimming,Post Graduate,Mountains,Science Fiction,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_Asian,1
+19,Male,Homosexual,Non-hispanic whites,5,15,Swimming,Uneducated,Mountains,action,Non-vegetarian,Alcholic,Partner_Homosexual,Native American,0
+18,Male,Heterosexual,Non-hispanic whites,10,10,Athletics,Post Graduate,Beaches,Romance,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Native Alakan,1
+17,Male,Heterosexual,Non-hispanic whites,5,15,Athletics,Uneducated,Adventure,Horror,Vegan,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,0
+22,Female,Heterosexual,Non-hispanic whites,5,10,Athletics,Graduate,Heritage,Romance,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_Hispanic and Latino,1
+23,Female,Heterosexual,Non-hispanic whites,5,5,Swimming,High School,Beaches,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Native American,1
+24,Female,Heterosexual,African-Americans,5,200,Swimming,Graduate,Ranches,Romance,Vegan,Alcholic,Partner_Heterosexual,Partner_Asian,0
+23,Male,Asexual,Non-hispanic whites,5,5,Cycling,Graduate,Mountains,Romance,Non-vegetarian,Alcholic,Asexual,Partner_Non-hispanic whites,1
+24,Male,Heterosexual,Non-hispanic whites,5,5,Swimming,Graduate,Beaches,Crime,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,0
+21,Donot Disclose,Heterosexual,African-Americans,5,5,Athletics,Graduate,Beaches,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_African-Americans,1
+22,Male,Heterosexual,African-Americans,5,5,Athletics,Graduate,Beaches,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_African-Americans,1
+18,Male,Homosexual,African-Americans,5,15,Cycling,Post Graduate,Heritage,Romance,Non-vegetarian,Alcholic,Partner_Homosexual,Partner_African-Americans,1
+22,Male,Heterosexual,Non-hispanic whites,5,10,Reading,Graduate,Heritage,Romance,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_African-Americans,1
+19,Female,Heterosexual,Hispanic and Latino,5,10,Swimming,High School,Adventure,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_African-Americans,1
+34,Male,Heterosexual,Hispanic and Latino,5,10,Athletics,High School,Adventure,Horror,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_Hispanic and Latino,0
+32,Female,Asexual,Asian,5,15,Swimming,High School,Beaches,Romance,Non-vegetarian,Alcholic,Asexual,Partner_Asian,1
+28,Female,Heterosexual,Asian,5,15,Swimming,Graduate,Mountains,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Asian,1
+25,Male,Homosexual,Asian,5,10,Reading,Under Graduate,Beaches,Science Fiction,Non-vegetarian,Alcholic,Partner_Homosexual,Partner_Asian,1
+18,Donot Disclose,Heterosexual,Asian,5,15,Cycling,Graduate,Beaches,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Asian,1
+19,Male,Heterosexual,Asian,5,100,Cycling,Under Graduate,Beaches,action,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Asian,0
+22,Male,Asexual,African-Americans,5,15,Swimming,High School,Beaches,Romance,Non-vegetarian,Alcholic,Asexual,Partner_Asian,1
+18,Male,Heterosexual,Non-hispanic whites,10,10,Reading,Graduate,Mountains,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Asian,1
+22,Female,Heterosexual,Hispanic and Latino,5,25,Cycling,Under Graduate,Beaches,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Asian,1
+21,Female,Heterosexual,Asian,5,10,Swimming,Graduate,Mountains,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Asian,1
+22,Female,Heterosexual,Non-hispanic whites,5,10,Cycling,Graduate,Beaches,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+23,Male,Heterosexual,Hispanic and Latino,5,5,Swimming,Under Graduate,Ranches,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Hispanic and Latino,1
+24,Male,Heterosexual,Asian,5,5,Cycling,High School,Mountains,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Asian,1
+25,Male,Heterosexual,Non-hispanic whites,5,10,Swimming,High School,Beaches,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+22,Female,Heterosexual,Non-hispanic whites,5,15,Swimming,Uneducated,Beaches,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,0
+23,Transgender,Heterosexual,Non-hispanic whites,5,15,Swimming,Uneducated,Mountains,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,0
+22,Male,Heterosexual,Asian,5,15,Cycling,Uneducated,Mountains,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Asian,0
+25,Female,Heterosexual,Non-hispanic whites,20,10,Cycling,Graduate,Mountains,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+19,Transgender,Heterosexual,Non-hispanic whites,5,15,Swimming,High School,Beaches,Science Fiction,Vegan,Alcholic,Partner_Heterosexual,Partner_African-Americans,1
+20,Male,Heterosexual,African-Americans,5,25,Reading,High School,Mountains,action,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Hispanic and Latino,1
+21,Male,Heterosexual,Hispanic and Latino,5,10,Cooking,High School,Beaches,Satire,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_Asian,0
+22,Male,Heterosexual,Asian,20,15,Cooking,Uneducated,Heritage,Horror,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Asian,0
+21,Male,Heterosexual,Non-hispanic whites,5,25,Swimming,High School,Heritage,Romance,Vegan,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+22,Female,Heterosexual,Non-hispanic whites,10,20,Cooking,Graduate,Mountains,action,Vegan,Alcholic,Partner_Heterosexual,Partner_African-Americans,1
+23,Male,Heterosexual,African-Americans,5,10,Swimming,High School,Beaches,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Hispanic and Latino,1
+21,Female,Heterosexual,Hispanic and Latino,10,15,Cycling,High School,Beaches,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Asian,1
+24,Male,Heterosexual,Asian,20,15,Cooking,Uneducated,Mountains,Horror,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Asian,0
+27,Male,Heterosexual,Non-hispanic whites,5,25,Reading,Graduate,Mountains,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Asian,1
+28,Female,Heterosexual,African-Americans,5,10,Cycling,Under Graduate,Beaches,Satire,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_Hispanic and Latino,1
+24,Male,Heterosexual,Hispanic and Latino,10,15,Swimming,Graduate,Mountains,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_African-Americans,1
+25,Female,Heterosexual,Asian,5,10,Cycling,High School,Beaches,action,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+25,Male,Heterosexual,African-Americans,10,10,Swimming,Uneducated,Ranches,Horror,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,0
+18,Female,Heterosexual,Asian,10,15,Cycling,Uneducated,Heritage,Horror,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_African-Americans,0
+21,Male,Heterosexual,African-Americans,10,10,Swimming,Uneducated,Ranches,Horror,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_Asian,0
+24,Male,Heterosexual,African-Americans,5,150,Swimming,Graduate,Ranches,action,Vegan,Alcholic,Partner_Heterosexual,Partner_Asian,0
+25,Transgender,Heterosexual,Non-hispanic whites,5,15,Cycling,Graduate,Beaches,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+22,Male,Heterosexual,African-Americans,10,10,Swimming,Under Graduate,Beaches,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_African-Americans,1
+24,Female,Heterosexual,Hispanic and Latino,5,10,Cycling,Post Graduate,Beaches,Satire,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Hispanic and Latino,1
+25,Male,Heterosexual,Non-hispanic whites,10,10,Cooking,High School,Ranches,Science Fiction,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_Asian,1
+25,Male,Heterosexual,African-Americans,20,10,Swimming,Uneducated,Ranches,Romance,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_African-Americans,0
+24,Transgender,Heterosexual,African-Americans,5,20,Swimming,High School,Beaches,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_African-Americans,1
+24,Male,Heterosexual,African-Americans,5,200,Swimming,Graduate,Ranches,Romance,Vegan,Alcholic,Partner_Heterosexual,Partner_Asian,0
+25,Male,Heterosexual,Non-hispanic whites,5,5,Swimming,High School,Mountains,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+21,Female,Heterosexual,Non-hispanic whites,10,10,Cooking,High School,Beaches,Science Fiction,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_African-Americans,1
+19,Male,Heterosexual,Non-hispanic whites,5,15,Cycling,Graduate,Mountains,Satire,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Hispanic and Latino,1
+21,Male,Heterosexual,Non-hispanic whites,10,10,Swimming,Graduate,Beaches,Romance,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_Asian,1
+22,Male,Heterosexual,Non-hispanic whites,5,5,Swimming,Graduate,Beaches,Romance,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+24,Male,Heterosexual,African-Americans,5,200,Swimming,Graduate,Ranches,Romance,Vegan,Alcholic,Partner_Heterosexual,Partner_Asian,0
+27,Female,Heterosexual,Hispanic and Latino,10,10,Cycling,Post Graduate,Mountains,Romance,Vegan,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+23,Female,Heterosexual,Asian,5,15,Cooking,Post Graduate,Beaches,action,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+24,Female,Heterosexual,African-Americans,10,10,Swimming,Post Graduate,Beaches,action,Vegan,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+28,Male,Heterosexual,Asian,5,5,Gardening,Graduate,Adventure,action,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+34,Male,Heterosexual,African-Americans,5,10,Gardening,Post Graduate,Heritage,Satire,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+24,Donot Disclose,Heterosexual,African-Americans,5,200,Swimming,Graduate,Ranches,Romance,Vegan,Alcholic,Partner_Heterosexual,Partner_Asian,0
+22,Male,Heterosexual,Non-hispanic whites,5,15,Swimming,Graduate,Adventure,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+32,Male,Heterosexual,Non-hispanic whites,5,20,Cooking,Uneducated,Beaches,Horror,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,0
+22,Male,Homosexual,Non-hispanic whites,5,5,Gardening,Graduate,Beaches,Satire,Non-vegetarian,Alcholic,Partner_Homosexual,Partner_African-Americans,1
+21,Female,Heterosexual,Non-hispanic whites,10,10,Swimming,Post Graduate,Mountains,Science Fiction,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_Asian,1
+19,Male,Heterosexual,Non-hispanic whites,5,15,Swimming,Graduate,Mountains,action,Non-vegetarian,Alcholic,Partner_Heterosexual,Native American,1
+18,Female,Heterosexual,Non-hispanic whites,10,10,Athletics,Post Graduate,Beaches,Romance,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Native Alakan,1
+17,Female,Heterosexual,Non-hispanic whites,5,15,Athletics,Uneducated,Adventure,Horror,Vegan,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,0
+22,Male,Heterosexual,Non-hispanic whites,5,10,Athletics,Graduate,Heritage,Romance,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_Hispanic and Latino,1
+23,Donot Disclose,Heterosexual,Non-hispanic whites,5,5,Swimming,High School,Beaches,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Native American,1
+24,Male,Heterosexual,African-Americans,5,200,Swimming,Graduate,Ranches,Romance,Vegan,Alcholic,Partner_Heterosexual,Partner_Asian,0
+22,Male,Heterosexual,Non-hispanic whites,5,150,Swimming,Post Graduate,Beaches,Romance,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_Hispanic and Latino,0
+24,Male,Heterosexual,Non-hispanic whites,5,5,fishing,Graduate,Ranches,Romance,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+23,Female,Heterosexual,Non-hispanic whites,5,10,Athletics,High School,Beaches,action,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+21,Female,Heterosexual,African-Americans,5,5,Cycling,High School,Mountains,Science Fiction,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+22,Female,Heterosexual,Non-hispanic whites,5,10,Cycling,High School,Ranches,Satire,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Hispanic and Latino,1
+24,Male,Heterosexual,Asian,5,150,Swimming,High School,Beaches,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Hispanic and Latino,1
+26,Male,Heterosexual,Native Americans,10,10,Cycling,Graduate,Beaches,action,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+35,Male,Heterosexual,Asian,5,150,Cooking,Under Graduate,Mountains,action,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_Non-hispanic whites,0
+24,Female,Heterosexual,Non-hispanic whites,5,200,Reading,Under Graduate,Beaches,Satire,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Hispanic and Latino,0
+26,Transgender,Heterosexual,Native Americans,15,200,Reading,Under Graduate,Mountains,action,Vegan,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,0
+34,Male,Heterosexual,African-Americans,5,10,Gardening,Post Graduate,Heritage,Satire,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+24,Female,Heterosexual,African-Americans,5,200,Swimming,Graduate,Ranches,Romance,Vegan,Alcholic,Partner_Heterosexual,Partner_Asian,0
+22,Male,Heterosexual,Non-hispanic whites,5,15,Swimming,Graduate,Adventure,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+32,Male,Heterosexual,Non-hispanic whites,5,20,Cooking,Uneducated,Beaches,Horror,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,0
+22,Male,Heterosexual,Non-hispanic whites,5,200,Gardening,Graduate,Beaches,Satire,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_African-Americans,0
+21,Male,Heterosexual,Non-hispanic whites,10,10,Swimming,Post Graduate,Mountains,Science Fiction,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_Asian,1
+19,Female,Heterosexual,Non-hispanic whites,5,15,Swimming,Graduate,Mountains,action,Non-vegetarian,Alcholic,Partner_Heterosexual,Native American,1
+18,Female,Heterosexual,Non-hispanic whites,10,150,Athletics,Post Graduate,Beaches,Romance,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Native Alakan,0
+17,Female,Heterosexual,Non-hispanic whites,5,15,Athletics,Uneducated,Adventure,Horror,Vegan,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,0
+22,Male,Heterosexual,Non-hispanic whites,5,10,Athletics,Graduate,Heritage,Romance,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_Hispanic and Latino,1
+23,Male,Heterosexual,Non-hispanic whites,5,5,Swimming,High School,Beaches,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Native American,1
+24,Male,Heterosexual,African-Americans,5,200,Swimming,Graduate,Ranches,Romance,Vegan,Alcholic,Partner_Heterosexual,Partner_Asian,0
+22,Female,Heterosexual,Non-hispanic whites,5,150,Swimming,Post Graduate,Beaches,Romance,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_Hispanic and Latino,0
+24,Male,Heterosexual,Non-hispanic whites,5,5,fishing,Graduate,Ranches,Romance,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+23,Female,Heterosexual,Non-hispanic whites,5,10,Athletics,High School,Beaches,action,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+21,Male,Heterosexual,African-Americans,5,200,Cycling,High School,Mountains,Science Fiction,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_Non-hispanic whites,0
+22,Male,Heterosexual,Non-hispanic whites,5,10,Cycling,High School,Ranches,Satire,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Hispanic and Latino,1
+24,Female,Heterosexual,Asian,5,150,Swimming,High School,Beaches,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Hispanic and Latino,1
+26,Male,Heterosexual,Native Americans,10,10,Cycling,Graduate,Beaches,action,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+35,Female,Heterosexual,Asian,5,150,Cooking,Under Graduate,Mountains,action,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_Non-hispanic whites,0
+24,Male,Heterosexual,Non-hispanic whites,5,200,Reading,Under Graduate,Beaches,Satire,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Hispanic and Latino,0
+26,Female,Heterosexual,Native Americans,15,200,Reading,Under Graduate,Mountains,action,Vegan,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,0
+24,Male,Bisexual,Hispanic and Latino,5,10,Cycling,Post Graduate,Beaches,Satire,Non-vegetarian,Alcholic,Partner_Bisexual,Partner_Hispanic and Latino,1
+25,Male,Heterosexual,Non-hispanic whites,10,10,Cooking,High School,Ranches,Science Fiction,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_Asian,1
+25,Male,Heterosexual,African-Americans,20,10,Swimming,Uneducated,Ranches,Romance,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_African-Americans,0
+24,Male,Heterosexual,African-Americans,5,20,Swimming,High School,Beaches,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_African-Americans,1
+24,Female,Heterosexual,African-Americans,5,200,Swimming,Graduate,Ranches,Romance,Vegan,Alcholic,Partner_Heterosexual,Partner_Asian,0
+25,Male,Heterosexual,Non-hispanic whites,5,5,Swimming,High School,Mountains,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+21,Female,Heterosexual,Non-hispanic whites,10,10,Cooking,High School,Beaches,Science Fiction,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_African-Americans,1
+19,Male,Bisexual,Non-hispanic whites,5,15,Cycling,Graduate,Mountains,Satire,Non-vegetarian,Alcholic,Partner_Bisexual,Partner_Hispanic and Latino,1
+21,Male,Heterosexual,Non-hispanic whites,10,10,Swimming,Graduate,Beaches,Romance,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_Asian,1
+22,Female,Heterosexual,Non-hispanic whites,5,5,Swimming,Graduate,Beaches,Romance,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+24,Male,Homosexual,African-Americans,5,200,Swimming,Uneducated,Ranches,Romance,Vegan,Alcholic,Partner_Homosexual,Partner_Asian,0
+27,Female,Heterosexual,Hispanic and Latino,10,10,Cycling,Post Graduate,Mountains,Romance,Vegan,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+23,Male,Asexual,Asian,5,15,Cooking,Post Graduate,Beaches,action,Non-vegetarian,Non Alcoholic,Asexual,Partner_Non-hispanic whites,1
+24,Female,Heterosexual,African-Americans,10,10,Swimming,Post Graduate,Beaches,action,Vegan,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+28,Male,Heterosexual,Asian,5,5,Gardening,Graduate,Adventure,action,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+34,Male,Homosexual,African-Americans,5,10,Gardening,Uneducated,Heritage,Satire,Vegan,Non Alcoholic,Partner_Homosexual,Partner_Non-hispanic whites,0
+24,Male,Heterosexual,African-Americans,5,200,Swimming,Graduate,Ranches,Romance,Vegan,Alcholic,Partner_Heterosexual,Partner_Asian,0
+22,Male,Heterosexual,Non-hispanic whites,5,15,Swimming,Graduate,Adventure,Science Fiction,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,1
+32,Female,Heterosexual,Non-hispanic whites,5,20,Cooking,Uneducated,Beaches,Horror,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,0
+22,Male,Heterosexual,Non-hispanic whites,5,5,Gardening,Graduate,Beaches,Satire,Non-vegetarian,Alcholic,Partner_Heterosexual,Partner_African-Americans,1
+21,Female,Heterosexual,Non-hispanic whites,10,10,Swimming,Post Graduate,Mountains,Science Fiction,Vegan,Non Alcoholic,Partner_Heterosexual,Partner_Asian,1
+19,Male,Homosexual,Non-hispanic whites,5,15,Swimming,Uneducated,Mountains,action,Non-vegetarian,Alcholic,Partner_Homosexual,Native American,0
+18,Male,Heterosexual,Non-hispanic whites,10,10,Athletics,Post Graduate,Beaches,Romance,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Native Alakan,1
+17,Female,Heterosexual,Non-hispanic whites,5,15,Athletics,Uneducated,Adventure,Horror,Vegan,Alcholic,Partner_Heterosexual,Partner_Non-hispanic whites,0
+22,Male,Heterosexual,Non-hispanic whites,5,10,Athletics,Graduate,Heritage,Romance,Non-vegetarian,Non Alcoholic,Partner_Heterosexual,Partner_Hispanic and Latino,1
+23,Female,Heterosexual,Non-hispanic whites,5,5,Swimming,High School,Beaches,Romance,Non-vegetarian,Alcholic,Partner_Heterosexual,Native American,1
+24,Male,Heterosexual,African-Americans,5,200,Swimming,Graduate,Ranches,Romance,Vegan,Alcholic,Partner_Heterosexual,Partner_Asian,0
